@@ -10470,3 +10470,980 @@ Script Stack (0 frames):
 [2020.01.18-00.21.07:663][593]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/Slot642C173F4793AB2B6FB3F3B80FB386A0.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/UI/Slot.uasset'
 [2020.01.18-00.21.09:950][723]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
 [2020.01.18-00.21.10:268][723]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMapFC37D02D4BC1F9EA90D33FA9FEE5C3BA.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-00.32.31:222][157]BlueprintLog: New page: Compile Slot
+[2020.01.18-00.32.31:303][157]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2020.01.18-00.32.31:847][182]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/Slot2B00B89D40FF401806B804A449534AFD.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/UI/Slot.uasset'
+[2020.01.18-00.32.38:335][553]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/SlotED02A54A4AE07999AEEEB9A9475BA258.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/UI/Slot.uasset'
+[2020.01.18-00.41.10:146][996]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2020.01.18-00.41.10:549][996]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMap_Auto23726430947FB619B823E4D927F5F8AD1.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2020.01.18-00.41.10:555][996]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.486
+[2020.01.18-00.41.10:555][996]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.486
+[2020.01.18-00.45.22:971][789]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.01.18-00.45.23:321][789]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMap29FB72074BC040D10CF2BD99E983510A.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-00.45.46:252][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Cube.Cube_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Cube.PackageMetaData'
+[2020.01.18-00.45.46:252][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Cube.SKEL_Cube_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Cube.PackageMetaData'
+[2020.01.18-00.45.46:252][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Cube.Cube:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Cube.PackageMetaData'
+[2020.01.18-00.45.46:252][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Cube.Cube:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Cube.PackageMetaData'
+[2020.01.18-00.45.46:252][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Cube.Cube:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Cube.PackageMetaData'
+[2020.01.18-00.45.46:252][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Cube.Cube:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Cube.PackageMetaData'
+[2020.01.18-00.45.46:252][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Cube.SKEL_Cube_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Cube.PackageMetaData'
+[2020.01.18-00.45.46:252][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Cube.SKEL_Cube_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Cube.PackageMetaData'
+[2020.01.18-00.45.46:253][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Cube.SKEL_Cube_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Cube.PackageMetaData'
+[2020.01.18-00.45.46:253][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Cube.SKEL_Cube_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Cube.PackageMetaData'
+[2020.01.18-00.45.46:264][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.Item_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Item.PackageMetaData'
+[2020.01.18-00.45.46:264][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.SKEL_Item_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Item.PackageMetaData'
+[2020.01.18-00.45.46:265][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.Item:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Item.PackageMetaData'
+[2020.01.18-00.45.46:265][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.SKEL_Item_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Item.PackageMetaData'
+[2020.01.18-00.45.46:265][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.SKEL_Item_C:StaticMesh' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Item.PackageMetaData'
+[2020.01.18-00.45.46:265][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.SKEL_Item_C:Sphere' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Item.PackageMetaData'
+[2020.01.18-00.45.46:265][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.SKEL_Item_C:DefaultSceneRoot' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Item.PackageMetaData'
+[2020.01.18-00.45.46:265][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.SKEL_Item_C:ItemStruct' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Item.PackageMetaData'
+[2020.01.18-00.45.46:265][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.SKEL_Item_C:Quantity' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Item.PackageMetaData'
+[2020.01.18-00.45.46:265][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.SKEL_Item_C:ContentToAdd' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Item.PackageMetaData'
+[2020.01.18-00.45.46:265][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.Item_C:StaticMesh' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Item.PackageMetaData'
+[2020.01.18-00.45.46:265][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.Item_C:Sphere' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Item.PackageMetaData'
+[2020.01.18-00.45.46:265][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.Item_C:DefaultSceneRoot' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Item.PackageMetaData'
+[2020.01.18-00.45.46:265][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.Item_C:ItemStruct' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Item.PackageMetaData'
+[2020.01.18-00.45.46:265][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.Item_C:Quantity' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Item.PackageMetaData'
+[2020.01.18-00.45.46:265][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.Item_C:ContentToAdd' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Item.PackageMetaData'
+[2020.01.18-00.45.46:277][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Stick.Stick:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Stick.PackageMetaData'
+[2020.01.18-00.45.46:277][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Stick.SKEL_Stick_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Stick.PackageMetaData'
+[2020.01.18-00.45.46:277][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Stick.Stick_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Stick.PackageMetaData'
+[2020.01.18-00.45.46:277][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Stick.Stick:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Stick.PackageMetaData'
+[2020.01.18-00.45.46:277][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Stick.Stick:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Stick.PackageMetaData'
+[2020.01.18-00.45.46:277][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Stick.Stick:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Stick.PackageMetaData'
+[2020.01.18-00.45.46:277][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Stick.SKEL_Stick_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Stick.PackageMetaData'
+[2020.01.18-00.45.46:277][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Stick.SKEL_Stick_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Stick.PackageMetaData'
+[2020.01.18-00.45.46:277][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Stick.SKEL_Stick_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Stick.PackageMetaData'
+[2020.01.18-00.45.46:277][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Stick.SKEL_Stick_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Stick.PackageMetaData'
+[2020.01.18-00.45.46:290][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/String.String:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/String.PackageMetaData'
+[2020.01.18-00.45.46:290][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/String.SKEL_String_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/String.PackageMetaData'
+[2020.01.18-00.45.46:290][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/String.String_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/String.PackageMetaData'
+[2020.01.18-00.45.46:290][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/String.String:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/String.PackageMetaData'
+[2020.01.18-00.45.46:290][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/String.String:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/String.PackageMetaData'
+[2020.01.18-00.45.46:290][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/String.String:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/String.PackageMetaData'
+[2020.01.18-00.45.46:290][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/String.SKEL_String_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/String.PackageMetaData'
+[2020.01.18-00.45.46:290][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/String.SKEL_String_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/String.PackageMetaData'
+[2020.01.18-00.45.46:290][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/String.SKEL_String_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/String.PackageMetaData'
+[2020.01.18-00.45.46:290][153]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/String.SKEL_String_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/String.PackageMetaData'
+[2020.01.18-00.45.46:338][153]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/Cube0A84721D45EBBBC15C9390BD14E18F09.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Selectable/Cube.uasset'
+[2020.01.18-00.45.46:361][153]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/CubeC30F0B2E45C7200B83923FA5260FEB6D.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Cube.uasset'
+[2020.01.18-00.45.46:391][153]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/ItemC7B10EEF492F03A4995D06A500C4D657.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.uasset'
+[2020.01.18-00.45.46:447][153]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/Stick2E5286E042D4D26C5D0E5A9D8EC9053B.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Selectable/Stick.uasset'
+[2020.01.18-00.45.46:471][153]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/StickFE09868C47CC9C125BB8078A57D55938.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Stick.uasset'
+[2020.01.18-00.45.46:493][153]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/String30DBBB3A48AC052F25C3B69656FDD3A3.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Selectable/String.uasset'
+[2020.01.18-00.45.46:518][153]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/String4FF77B18414D3904FA87F6957E330554.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/String.uasset'
+[2020.01.18-00.45.46:808][153]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.01.18-00.45.46:873][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.01.18-00.45.46:933][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.01.18-00.45.46:970][153]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/SelectableObject03EBD2E3439496554F2748A7F7CBDD96.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/SelectableObject.uasset'
+[2020.01.18-00.45.46:991][153]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/SelectableObject_C368395AC460CF3558CC5E0856BB12FAD.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/SelectableObject_C.uasset'
+[2020.01.18-00.45.47:015][153]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/ItemStruct0AF0044949D8D5027574349F5F850145.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Structs/ItemStruct.uasset'
+[2020.01.18-00.45.47:106][153]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownController89A009DE48187EAB7B8B8185C6FC6D54.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Default/TopDownController.uasset'
+[2020.01.18-00.45.47:186][153]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/InventoryComponent51DF63CC4E38A234E4AA17B1B24FC546.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/InventoryComponent.uasset'
+[2020.01.18-00.45.47:229][153]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/SlotA96847DD4156235FCC105EB71C8421C4.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/UI/Slot.uasset'
+[2020.01.18-00.46.04:033][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Build.Build:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Build.PackageMetaData'
+[2020.01.18-00.46.04:033][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Build.SKEL_Build_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Build.PackageMetaData'
+[2020.01.18-00.46.04:033][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Build.Build_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Build.PackageMetaData'
+[2020.01.18-00.46.04:033][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Build.Build_C:StaticMesh' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Build.PackageMetaData'
+[2020.01.18-00.46.04:033][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Build.Build_C:Box' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Build.PackageMetaData'
+[2020.01.18-00.46.04:033][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Build.Build_C:Scene' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Build.PackageMetaData'
+[2020.01.18-00.46.04:033][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Build.SKEL_Build_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Build.PackageMetaData'
+[2020.01.18-00.46.04:033][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Build.SKEL_Build_C:StaticMesh' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Build.PackageMetaData'
+[2020.01.18-00.46.04:033][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Build.SKEL_Build_C:Box' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Build.PackageMetaData'
+[2020.01.18-00.46.04:033][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Build.SKEL_Build_C:Scene' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Build.PackageMetaData'
+[2020.01.18-00.46.04:043][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.FishingRod_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/FishingRod.PackageMetaData'
+[2020.01.18-00.46.04:043][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.SKEL_FishingRod_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/FishingRod.PackageMetaData'
+[2020.01.18-00.46.04:043][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.FishingRod:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/FishingRod.PackageMetaData'
+[2020.01.18-00.46.04:043][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.SKEL_FishingRod_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/FishingRod.PackageMetaData'
+[2020.01.18-00.46.04:043][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.FishingRod_C:StringStruct' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/FishingRod.PackageMetaData'
+[2020.01.18-00.46.04:043][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.FishingRod_C:StickStruct' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/FishingRod.PackageMetaData'
+[2020.01.18-00.46.04:043][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.FishingRod_C:Inventory' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/FishingRod.PackageMetaData'
+[2020.01.18-00.46.04:043][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.FishingRod_C:SlotWidget' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/FishingRod.PackageMetaData'
+[2020.01.18-00.46.04:043][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.SKEL_FishingRod_C:StringStruct' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/FishingRod.PackageMetaData'
+[2020.01.18-00.46.04:043][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.SKEL_FishingRod_C:StickStruct' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/FishingRod.PackageMetaData'
+[2020.01.18-00.46.04:043][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.SKEL_FishingRod_C:Inventory' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/FishingRod.PackageMetaData'
+[2020.01.18-00.46.04:043][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.SKEL_FishingRod_C:SlotWidget' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/FishingRod.PackageMetaData'
+[2020.01.18-00.46.04:054][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Iglu.Iglu:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Iglu.PackageMetaData'
+[2020.01.18-00.46.04:054][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Iglu.SKEL_Iglu_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Iglu.PackageMetaData'
+[2020.01.18-00.46.04:054][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Iglu.Iglu_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Iglu.PackageMetaData'
+[2020.01.18-00.46.04:054][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Iglu.SKEL_Iglu_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Iglu.PackageMetaData'
+[2020.01.18-00.46.04:054][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Iglu.SKEL_Iglu_C:IceCubeStruct' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Iglu.PackageMetaData'
+[2020.01.18-00.46.04:054][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Iglu.SKEL_Iglu_C:Inventory' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Iglu.PackageMetaData'
+[2020.01.18-00.46.04:054][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Iglu.SKEL_Iglu_C:SlotWidget' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Iglu.PackageMetaData'
+[2020.01.18-00.46.04:054][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Iglu.Iglu_C:IceCubeStruct' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Iglu.PackageMetaData'
+[2020.01.18-00.46.04:054][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Iglu.Iglu_C:Inventory' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Iglu.PackageMetaData'
+[2020.01.18-00.46.04:054][137]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Iglu.Iglu_C:SlotWidget' ref from Metadata '/Game/TopDownBP/Blueprints/InventoryLogic/Iglu.PackageMetaData'
+[2020.01.18-00.46.04:100][137]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/Build01EA07AF43466B8606A8AAADF0D63BCE.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Builds/Build.uasset'
+[2020.01.18-00.46.04:148][137]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/FishingRodEA8BB4824037D0AD1554138CFDF47E77.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.uasset'
+[2020.01.18-00.46.04:172][137]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/FishingRodE767B92142242BCE12E5248ECDE3BC1A.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/FishingRod.uasset'
+[2020.01.18-00.46.04:221][137]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/Iglu29D287074EAEAAD27BA7E88490CC2766.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Builds/Iglu.uasset'
+[2020.01.18-00.46.04:244][137]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/IgluF4FABDE9409767725F6BE6BCE4C24F80.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Iglu.uasset'
+[2020.01.18-00.46.04:529][137]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2020.01.18-00.46.04:600][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.01.18-00.46.04:654][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.01.18-00.46.06:854][255]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.01.18-00.46.07:168][255]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMapBE3CD5534ADEA80D49F292951DBEA4E0.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-00.46.07:653][282]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.18-00.46.07:696][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.46.07:696][282]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.18-00.46.07:717][282]LogPlayLevel: [PlayLevel] Compiling TopDownController before play...
+[2020.01.18-00.46.08:093][282]LogPlayLevel: [PlayLevel] Compiling InventoryComponent before play...
+[2020.01.18-00.46.08:432][282]LogPlayLevel: [PlayLevel] Compiling Iglu before play...
+[2020.01.18-00.46.08:727][282]LogPlayLevel: [PlayLevel] Compiling FishingRod before play...
+[2020.01.18-00.46.09:030][282]LogPlayLevel: [PlayLevel] Compiling Slot before play...
+[2020.01.18-00.46.09:408][282]LogUObjectHash: Compacting FUObjectHashTables data took   7.89ms
+[2020.01.18-00.46.09:408][282]LogPlayLevel: PlayLevel: Blueprint regeneration took 1711 ms (5 blueprints)
+[2020.01.18-00.46.09:408][282]PIE: New page: PIE session: TopDownExampleMap (Jan 18, 2020, 2:46:09 AM)
+[2020.01.18-00.46.09:408][282]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.18-00.46.09:420][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012202s)
+[2020.01.18-00.46.09:421][282]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.18-00.46.09:422][282]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2020.01.18-00.46.09:422][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013470s)
+[2020.01.18-00.46.09:494][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.01.18-00.46.09:516][282]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-00.46.09:536][282]LogInit: FAudioDevice initialized.
+[2020.01.18-00.46.09:565][282]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.18-00.46.09:568][282]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.01.18-01.46.09
+[2020.01.18-00.46.09:568][282]LogWorld: Bringing up level for play took: 0.001928
+[2020.01.18-00.46.09:582][282]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 2.158
+[2020.01.18-00.46.09:582][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.46.11:253][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-00.46.11:254][381]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-00.46.14:287][563]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-00.46.14:287][563]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-00.46.17:637][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-00.46.17:637][764]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-00.46.19:123][853]LogScript: Warning: Accessed None trying to read property InvWindowWidget
+	FishingRod_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.FishingRod_2
+	Function /Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.FishingRod_C:ExecuteUbergraph_FishingRod:00E8
+[2020.01.18-00.46.19:123][853]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Set SlotWidget
+[2020.01.18-00.46.19:123][853]LogScript: Warning: Accessed None trying to read property SlotWidget
+	FishingRod_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.FishingRod_2
+	Function /Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.FishingRod_C:ExecuteUbergraph_FishingRod:0313
+[2020.01.18-00.46.19:123][853]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-00.46.19:123][853]LogScript: Warning: Accessed None trying to read property SlotWidget
+	FishingRod_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.FishingRod_2
+	Function /Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.FishingRod_C:ExecuteUbergraph_FishingRod:044E
+[2020.01.18-00.46.19:123][853]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-00.46.20:138][914]LogScript: Warning: Accessed None trying to read property InvWindowWidget
+	FishingRod_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.FishingRod_2
+	Function /Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.FishingRod_C:ExecuteUbergraph_FishingRod:00E8
+[2020.01.18-00.46.20:138][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Set SlotWidget
+[2020.01.18-00.46.20:138][914]LogScript: Warning: Accessed None trying to read property SlotWidget
+	FishingRod_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.FishingRod_2
+	Function /Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.FishingRod_C:ExecuteUbergraph_FishingRod:0313
+[2020.01.18-00.46.20:138][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-00.46.20:138][914]LogScript: Warning: Accessed None trying to read property SlotWidget
+	FishingRod_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.FishingRod_2
+	Function /Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.FishingRod_C:ExecuteUbergraph_FishingRod:044E
+[2020.01.18-00.46.20:138][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-00.46.33:489][715]LogScript: Warning: Accessed None trying to read property InvWindowWidget
+	FishingRod_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.FishingRod_2
+	Function /Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.FishingRod_C:ExecuteUbergraph_FishingRod:00E8
+[2020.01.18-00.46.33:489][715]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Set SlotWidget
+[2020.01.18-00.46.34:191][757]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.46.34:192][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-00.46.34:228][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.18-00.46.34:228][757]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.46.34:297][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-00.46.34:306][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.01.18-00.46.34:318][757]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-00.46.34:390][758]LogPlayLevel: Display: Destroying online subsystem :Context_246
+[2020.01.18-00.46.35:674][831]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-00.46.35:681][831]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-00.48.32:390][607]BlueprintLog: New page: Compile FishingRod
+[2020.01.18-00.48.32:719][607]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.01.18-00.48.32:910][611]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/FishingRod33397AC04E93D578670A488A88C6D0D3.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.uasset'
+[2020.01.18-00.48.34:250][682]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.01.18-00.48.34:711][682]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMap8B792B8846132B5EEC3272A589E05C5D.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-00.48.34:919][692]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.18-00.48.35:015][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.48.35:015][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.18-00.48.35:015][692]PIE: New page: PIE session: TopDownExampleMap (Jan 18, 2020, 2:48:35 AM)
+[2020.01.18-00.48.35:015][692]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.18-00.48.35:025][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010105s)
+[2020.01.18-00.48.35:026][692]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.18-00.48.35:026][692]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2020.01.18-00.48.35:026][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011130s)
+[2020.01.18-00.48.35:088][692]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.01.18-00.48.35:109][692]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-00.48.35:128][692]LogInit: FAudioDevice initialized.
+[2020.01.18-00.48.35:159][692]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.18-00.48.35:164][692]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.01.18-01.48.35
+[2020.01.18-00.48.35:164][692]LogWorld: Bringing up level for play took: 0.003581
+[2020.01.18-00.48.35:180][692]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.245
+[2020.01.18-00.48.35:180][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.48.36:858][791]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-00.48.36:858][791]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-00.48.38:775][906]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-00.48.38:775][906]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-00.48.40:025][981]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Set SlotWidget
+[2020.01.18-00.48.40:025][981]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-00.48.40:025][981]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-00.48.47:143][408]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.48.47:143][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-00.48.47:185][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.18-00.48.47:185][408]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.48.47:266][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-00.48.47:273][408]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.01.18-00.48.47:284][408]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-00.48.47:342][409]LogPlayLevel: Display: Destroying online subsystem :Context_247
+[2020.01.18-00.48.48:295][465]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-00.48.48:301][465]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-00.50.40:438][151]BlueprintLog: New page: Compile FishingRod
+[2020.01.18-00.50.40:767][151]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.01.18-00.50.40:994][156]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/FishingRod1B525EE044D6794C8AFEFE81329FF876.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.uasset'
+[2020.01.18-00.50.43:024][269]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.01.18-00.50.43:356][269]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMap5C84959A48B48FDB622C7EA6DFE0D395.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-00.50.43:646][283]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.18-00.50.43:721][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.50.43:721][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.18-00.50.43:721][283]PIE: New page: PIE session: TopDownExampleMap (Jan 18, 2020, 2:50:43 AM)
+[2020.01.18-00.50.43:722][283]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.18-00.50.43:733][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010899s)
+[2020.01.18-00.50.43:733][283]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.18-00.50.43:734][283]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2020.01.18-00.50.43:734][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011917s)
+[2020.01.18-00.50.43:800][283]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.01.18-00.50.43:821][283]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-00.50.43:839][283]LogInit: FAudioDevice initialized.
+[2020.01.18-00.50.43:876][283]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.18-00.50.43:882][283]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.01.18-01.50.43
+[2020.01.18-00.50.43:883][283]LogWorld: Bringing up level for play took: 0.004891
+[2020.01.18-00.50.43:899][283]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.474
+[2020.01.18-00.50.43:900][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.50.54:332][908]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.50.54:332][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-00.50.54:376][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.18-00.50.54:376][908]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.50.54:455][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-00.50.54:464][908]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2020.01.18-00.50.54:498][909]LogPlayLevel: Display: Destroying online subsystem :Context_248
+[2020.01.18-00.50.55:557][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-00.51.00:451][263]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/TopDownBP/Blueprints/InventoryLogic/UI/HUD.HUD
+[2020.01.18-00.51.11:208][881]BlueprintLog: New page: Compile HUD
+[2020.01.18-00.51.11:283][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.01.18-00.51.11:832][898]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/HUDFE34B1CA4F94F7C3211F2797BBEDA67D.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/UI/HUD.uasset'
+[2020.01.18-00.51.12:798][949]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.01.18-00.51.13:155][949]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMapD296DDB54580CF7CB55044814B0929D2.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-00.51.13:272][954]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.18-00.51.13:303][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.51.13:303][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.18-00.51.13:303][954]PIE: New page: PIE session: TopDownExampleMap (Jan 18, 2020, 2:51:13 AM)
+[2020.01.18-00.51.13:303][954]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.18-00.51.13:315][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011889s)
+[2020.01.18-00.51.13:317][954]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.18-00.51.13:317][954]LogPlayLevel: PIE: World Init took: (0.001879s)
+[2020.01.18-00.51.13:317][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013948s)
+[2020.01.18-00.51.13:388][954]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.01.18-00.51.13:412][954]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-00.51.13:435][954]LogInit: FAudioDevice initialized.
+[2020.01.18-00.51.13:467][954]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.18-00.51.13:469][954]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.01.18-01.51.13
+[2020.01.18-00.51.13:469][954]LogWorld: Bringing up level for play took: 0.002106
+[2020.01.18-00.51.13:484][954]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.059
+[2020.01.18-00.51.13:484][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.51.33:418][142]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.51.33:418][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-00.51.33:457][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.18-00.51.33:457][142]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.51.33:521][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-00.51.33:529][142]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.01.18-00.51.33:562][143]LogPlayLevel: Display: Destroying online subsystem :Context_251
+[2020.01.18-00.51.34:879][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-00.54.00:125][832]BlueprintLog: New page: Compile Iglu
+[2020.01.18-00.54.00:465][832]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.01.18-00.54.00:759][839]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/Iglu5CC4ABA64FDDCCAF48CAA296F6B76399.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Builds/Iglu.uasset'
+[2020.01.18-00.54.01:937][899]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.01.18-00.54.02:277][899]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMap778820584E1B2864AAEBF7A4E52B0150.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-00.54.02:532][910]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.18-00.54.02:627][910]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.54.02:627][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.18-00.54.02:627][910]PIE: New page: PIE session: TopDownExampleMap (Jan 18, 2020, 2:54:02 AM)
+[2020.01.18-00.54.02:627][910]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.18-00.54.02:639][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011767s)
+[2020.01.18-00.54.02:640][910]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.18-00.54.02:640][910]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2020.01.18-00.54.02:640][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012649s)
+[2020.01.18-00.54.02:700][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.01.18-00.54.02:719][910]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-00.54.02:738][910]LogInit: FAudioDevice initialized.
+[2020.01.18-00.54.02:772][910]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.18-00.54.02:777][910]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.01.18-01.54.02
+[2020.01.18-00.54.02:778][910]LogWorld: Bringing up level for play took: 0.004322
+[2020.01.18-00.54.02:794][910]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.63
+[2020.01.18-00.54.02:794][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.54.07:284][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-00.54.07:284][171]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-00.54.14:819][623]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.54.14:819][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-00.54.14:859][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.18-00.54.14:859][623]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-00.54.14:925][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-00.54.14:932][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.01.18-00.54.14:945][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-00.54.15:003][624]LogPlayLevel: Display: Destroying online subsystem :Context_252
+[2020.01.18-00.54.16:021][682]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-00.54.16:028][682]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-00.55.54:720][479]AssetReimport: New page: Outstanding source content changes 2:55:54 AM
+[2020.01.18-00.55.54:723][479]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Paau/Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Textures/fishing-rod-texture.png)
+[2020.01.18-00.55.54:890][480]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/fishing-rod-textureCC097F844101F7E691DE99B77E407E07.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Textures/fishing-rod-texture.uasset'
+[2020.01.18-00.55.57:912][657]AssetReimport: Importing new asset /Game/TopDownBP/Blueprints/Textures/fishing-rod-texture.
+[2020.01.18-00.56.17:060][800]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/InventoryLogic/Selectable/FishingRod.FishingRod
+[2020.01.18-00.56.49:110][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-00.56.58:864][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-00.56.58:948][259]BlueprintLog: New page: Compile FishingRod
+[2020.01.18-00.56.59:317][259]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.01.18-00.56.59:635][270]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/FishingRodEDAC5F51472689206CFC49B97211E9E1.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Selectable/FishingRod.uasset'
+[2020.01.18-00.57.19:863][480]BlueprintLog: New page: Compile FishingRod
+[2020.01.18-00.57.20:196][480]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.01.18-00.57.20:564][494]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/FishingRod6BFA18ED4DE6B7EE78B7648BCDA389DB.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Selectable/FishingRod.uasset'
+[2020.01.18-00.57.37:839][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-00.58.50:993][875]LogEditorTransaction: Undo Move Node
+[2020.01.18-01.00.27:524][584]BlueprintLog: New page: Compile FishingRod
+[2020.01.18-01.00.27:862][584]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2020.01.18-01.00.28:159][591]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/FishingRod30DAC830421D468AAB3AD0A08DD0E734.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.uasset'
+[2020.01.18-01.00.47:097][720]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.18-01.00.49:714][875]BlueprintLog: New page: Compile FishingRod
+[2020.01.18-01.00.50:040][875]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.01.18-01.00.50:334][881]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/FishingRod4AFB003A4CED13DE94D622BC92AC93AF.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.uasset'
+[2020.01.18-01.00.51:563][947]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2020.01.18-01.00.51:901][947]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMap1EAFCF864205D5B1829F10B61136CD89.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-01.01.07:916][902]BlueprintLog: New page: Compile FishingRod
+[2020.01.18-01.01.08:258][902]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.01.18-01.01.08:597][912]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/FishingRod26F5BC0040B08CD575F81CA9E955D2E4.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.uasset'
+[2020.01.18-01.01.09:887][983]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.01.18-01.01.10:279][983]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMap4E89DE484C263FC1F84E97B1DAC34C2D.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-01.01.10:579][997]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.18-01.01.10:655][997]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.01.10:655][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.18-01.01.10:656][997]PIE: New page: PIE session: TopDownExampleMap (Jan 18, 2020, 3:01:10 AM)
+[2020.01.18-01.01.10:656][997]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.18-01.01.10:666][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009932s)
+[2020.01.18-01.01.10:667][997]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.18-01.01.10:667][997]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2020.01.18-01.01.10:667][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011374s)
+[2020.01.18-01.01.10:763][997]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.01.18-01.01.10:784][997]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-01.01.10:804][997]LogInit: FAudioDevice initialized.
+[2020.01.18-01.01.10:832][997]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.18-01.01.10:835][997]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.01.18-02.01.10
+[2020.01.18-01.01.10:835][997]LogWorld: Bringing up level for play took: 0.001961
+[2020.01.18-01.01.10:850][997]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.575
+[2020.01.18-01.01.10:850][997]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.01.13:525][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-01.01.13:525][155]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-01.01.15:209][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-01.01.15:209][256]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-01.01.21:694][645]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.01.21:694][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.01.21:736][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.18-01.01.21:736][645]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.01.21:804][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.01.21:810][645]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.01.18-01.01.21:823][645]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.01.21:862][646]LogPlayLevel: Display: Destroying online subsystem :Context_254
+[2020.01.18-01.01.22:992][711]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.01.22:997][711]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.01.23:509][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.01.23:592][747]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.18-01.01.23:628][747]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.01.23:629][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.18-01.01.23:629][747]PIE: New page: PIE session: TopDownExampleMap (Jan 18, 2020, 3:01:23 AM)
+[2020.01.18-01.01.23:629][747]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.18-01.01.23:640][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011226s)
+[2020.01.18-01.01.23:641][747]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.18-01.01.23:641][747]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2020.01.18-01.01.23:641][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012205s)
+[2020.01.18-01.01.23:703][747]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.01.18-01.01.23:723][747]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-01.01.23:741][747]LogInit: FAudioDevice initialized.
+[2020.01.18-01.01.23:775][747]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.18-01.01.23:781][747]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.01.18-02.01.23
+[2020.01.18-01.01.23:782][747]LogWorld: Bringing up level for play took: 0.004529
+[2020.01.18-01.01.23:798][747]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.373
+[2020.01.18-01.01.23:798][747]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.01.26:507][904]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-01.01.26:507][904]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-01.01.28:090][999]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-01.01.28:090][999]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-01.01.39:844][704]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.01.39:845][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.01.39:881][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.18-01.01.39:881][704]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.01.39:980][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.01.39:986][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.01.18-01.01.39:998][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.01.40:043][705]LogPlayLevel: Display: Destroying online subsystem :Context_255
+[2020.01.18-01.01.48:447][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.01.59:214][695]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.01.59:218][695]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.02.13:032][524]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.18-01.02.13:076][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.02.13:076][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.18-01.02.13:076][524]PIE: New page: PIE session: TopDownExampleMap (Jan 18, 2020, 3:02:13 AM)
+[2020.01.18-01.02.13:076][524]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.18-01.02.13:090][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013130s)
+[2020.01.18-01.02.13:090][524]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.18-01.02.13:090][524]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2020.01.18-01.02.13:090][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013929s)
+[2020.01.18-01.02.13:157][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.01.18-01.02.13:177][524]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-01.02.13:196][524]LogInit: FAudioDevice initialized.
+[2020.01.18-01.02.13:224][524]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.18-01.02.13:226][524]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.01.18-02.02.13
+[2020.01.18-01.02.13:227][524]LogWorld: Bringing up level for play took: 0.001832
+[2020.01.18-01.02.13:239][524]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.185
+[2020.01.18-01.02.13:239][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.02.15:161][634]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-01.02.15:162][634]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-01.02.18:103][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-01.02.18:103][806]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-01.02.19:571][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-01.02.19:571][894]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-01.02.21:838][ 30]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  Iglu Function:  Execute Ubergraph Iglu Graph:  EventGraph Node:  Set SlotWidget
+[2020.01.18-01.02.21:838][ 30]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  Iglu Function:  Execute Ubergraph Iglu Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.02.28:440][426]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.02.28:440][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.02.28:478][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.18-01.02.28:478][426]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.02.28:578][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.02.28:584][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.01.18-01.02.28:596][426]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.02.28:657][427]LogPlayLevel: Display: Destroying online subsystem :Context_256
+[2020.01.18-01.02.30:630][543]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.02.30:634][543]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.02.31:297][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.02.31:347][586]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.18-01.02.31:391][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.02.31:391][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.18-01.02.31:391][586]PIE: New page: PIE session: TopDownExampleMap (Jan 18, 2020, 3:02:31 AM)
+[2020.01.18-01.02.31:392][586]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.18-01.02.31:403][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011023s)
+[2020.01.18-01.02.31:403][586]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.18-01.02.31:404][586]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2020.01.18-01.02.31:404][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011769s)
+[2020.01.18-01.02.31:471][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.01.18-01.02.31:492][586]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-01.02.31:509][586]LogInit: FAudioDevice initialized.
+[2020.01.18-01.02.31:540][586]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.18-01.02.31:545][586]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.01.18-02.02.31
+[2020.01.18-01.02.31:545][586]LogWorld: Bringing up level for play took: 0.003647
+[2020.01.18-01.02.31:560][586]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.136
+[2020.01.18-01.02.31:561][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.02.32:671][649]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-01.02.32:671][649]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryComponent Function:  Create Stack Graph:  CreateStack Node:  Update Slot
+[2020.01.18-01.02.37:804][957]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.02.37:805][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.02.37:843][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.18-01.02.37:843][957]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.02.37:907][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.02.37:913][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.01.18-01.02.37:926][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.02.37:976][958]LogPlayLevel: Display: Destroying online subsystem :Context_257
+[2020.01.18-01.02.41:803][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.02.42:344][216]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.02.42:349][216]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.02.50:266][691]BlueprintLog: New page: Compile InventoryComponent
+[2020.01.18-01.02.50:636][691]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.01.18-01.02.51:071][705]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/InventoryComponentD478F81E448936A5CC6B4FB70AEFD5A6.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/InventoryComponent.uasset'
+[2020.01.18-01.02.52:126][757]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.01.18-01.02.52:458][757]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMap3F3C48384DAEF734D1AF7385E43DA7F4.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-01.02.52:750][771]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.18-01.02.52:788][771]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.02.52:789][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.18-01.02.52:789][771]PIE: New page: PIE session: TopDownExampleMap (Jan 18, 2020, 3:02:52 AM)
+[2020.01.18-01.02.52:789][771]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.18-01.02.52:799][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010297s)
+[2020.01.18-01.02.52:800][771]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.18-01.02.52:800][771]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2020.01.18-01.02.52:800][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011359s)
+[2020.01.18-01.02.52:868][771]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.01.18-01.02.52:889][771]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-01.02.52:908][771]LogInit: FAudioDevice initialized.
+[2020.01.18-01.02.52:941][771]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.18-01.02.52:943][771]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.01.18-02.02.52
+[2020.01.18-01.02.52:944][771]LogWorld: Bringing up level for play took: 0.001950
+[2020.01.18-01.02.52:956][771]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.468
+[2020.01.18-01.02.52:957][771]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.02.55:173][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.03.01:276][258]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.03.01:276][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.03.01:312][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.18-01.03.01:312][258]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.03.01:379][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.03.01:385][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.01.18-01.03.01:408][259]LogPlayLevel: Display: Destroying online subsystem :Context_258
+[2020.01.18-01.03.02:353][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.03.02:403][316]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.18-01.03.02:439][316]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.03.02:439][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.18-01.03.02:439][316]PIE: New page: PIE session: TopDownExampleMap (Jan 18, 2020, 3:03:02 AM)
+[2020.01.18-01.03.02:439][316]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.18-01.03.02:450][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011248s)
+[2020.01.18-01.03.02:451][316]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.18-01.03.02:451][316]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2020.01.18-01.03.02:451][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012137s)
+[2020.01.18-01.03.02:517][316]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.01.18-01.03.02:536][316]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-01.03.02:554][316]LogInit: FAudioDevice initialized.
+[2020.01.18-01.03.02:582][316]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.18-01.03.02:584][316]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.01.18-02.03.02
+[2020.01.18-01.03.02:584][316]LogWorld: Bringing up level for play took: 0.001721
+[2020.01.18-01.03.02:599][316]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.174
+[2020.01.18-01.03.02:599][316]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.03.07:195][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Set SlotWidget
+[2020.01.18-01.03.07:196][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.03.07:196][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.03.12:648][915]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.03.12:648][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.03.12:689][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.18-01.03.12:689][915]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.03.12:756][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.03.12:762][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.01.18-01.03.12:774][915]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.03.12:818][916]LogPlayLevel: Display: Destroying online subsystem :Context_259
+[2020.01.18-01.03.14:001][984]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.03.14:006][984]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.03.14:468][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.03.14:534][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.18-01.03.14:572][ 16]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.03.14:572][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.18-01.03.14:572][ 16]PIE: New page: PIE session: TopDownExampleMap (Jan 18, 2020, 3:03:14 AM)
+[2020.01.18-01.03.14:572][ 16]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.18-01.03.14:583][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010989s)
+[2020.01.18-01.03.14:584][ 16]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.18-01.03.14:585][ 16]LogPlayLevel: PIE: World Init took: (0.001215s)
+[2020.01.18-01.03.14:585][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012418s)
+[2020.01.18-01.03.14:660][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.01.18-01.03.14:686][ 16]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-01.03.14:710][ 16]LogInit: FAudioDevice initialized.
+[2020.01.18-01.03.14:739][ 16]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.18-01.03.14:742][ 16]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.01.18-02.03.14
+[2020.01.18-01.03.14:742][ 16]LogWorld: Bringing up level for play took: 0.002413
+[2020.01.18-01.03.14:755][ 16]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.67
+[2020.01.18-01.03.14:755][ 16]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.03.23:990][567]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.03.23:991][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.03.24:030][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.18-01.03.24:030][567]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.03.24:112][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.03.24:118][567]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.01.18-01.03.24:144][568]LogPlayLevel: Display: Destroying online subsystem :Context_260
+[2020.01.18-01.03.24:714][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.03.24:781][604]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.18-01.03.24:818][604]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.03.24:819][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.18-01.03.24:819][604]PIE: New page: PIE session: TopDownExampleMap (Jan 18, 2020, 3:03:24 AM)
+[2020.01.18-01.03.24:819][604]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.18-01.03.24:829][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009934s)
+[2020.01.18-01.03.24:829][604]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.18-01.03.24:830][604]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2020.01.18-01.03.24:830][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010863s)
+[2020.01.18-01.03.24:891][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.01.18-01.03.24:910][604]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-01.03.24:928][604]LogInit: FAudioDevice initialized.
+[2020.01.18-01.03.24:957][604]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.18-01.03.24:959][604]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.01.18-02.03.24
+[2020.01.18-01.03.24:959][604]LogWorld: Bringing up level for play took: 0.001645
+[2020.01.18-01.03.24:973][604]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.452
+[2020.01.18-01.03.24:973][604]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.03.29:056][846]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Set SlotWidget
+[2020.01.18-01.03.29:056][846]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.03.29:056][846]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.03.29:290][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Set SlotWidget
+[2020.01.18-01.03.29:290][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.03.29:290][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.03.29:457][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Set SlotWidget
+[2020.01.18-01.03.29:457][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.03.29:458][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.03.29:458][870]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [-1/3]!
+[2020.01.18-01.03.29:675][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Set SlotWidget
+[2020.01.18-01.03.29:675][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.03.29:675][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.03.29:675][883]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [-1/3]!
+[2020.01.18-01.03.29:890][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Set SlotWidget
+[2020.01.18-01.03.29:890][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.03.29:890][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.03.29:890][896]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [-1/3]!
+[2020.01.18-01.03.30:058][906]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Set SlotWidget
+[2020.01.18-01.03.30:058][906]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.03.30:058][906]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.03.30:058][906]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [-1/3]!
+[2020.01.18-01.03.30:207][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Set SlotWidget
+[2020.01.18-01.03.30:208][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.03.30:208][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  FishingRod Function:  Execute Ubergraph Fishing Rod Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.03.30:208][915]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [-1/3]!
+[2020.01.18-01.03.45:922][853]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.03.45:923][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.03.45:959][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.18-01.03.45:960][853]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.03.46:026][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.03.46:032][853]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.01.18-01.03.46:045][853]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.03.46:100][854]LogPlayLevel: Display: Destroying online subsystem :Context_261
+[2020.01.18-01.03.46:975][903]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.03.46:980][903]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.03.47:572][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.04.03:554][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.05.05:731][366]LogUObjectBase: Warning: Object is not registered
+[2020.01.18-01.05.05:731][366]LogUObjectBase: Warning: Object is not registered
+[2020.01.18-01.05.06:818][427]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/FishingRod29B1BABA4B7A9B1DD9254189E1E34B98.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRod.uasset'
+[2020.01.18-01.06.52:938][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.18-01.06.53:320][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.18-01.06.54:310][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.06.55:883][963]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.01.18-01.06.56:645][  4]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2020.01.18-01.07.00:229][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.07.00:501][ 22]Cmd: SELECT NONE
+[2020.01.18-01.07.37:729][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.07.37:869][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.01.18-01.07.38:237][223]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMapC23DC96942CC9F29F261BDB114FC0DC8.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-01.16.38:226][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.16.54:053][812]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\pau74\Downloads\igloo.obj)
+[2020.01.18-01.16.54:265][812]LogFbx: Loading FBX Scene from C:\Users\pau74\Downloads\igloo.obj
+[2020.01.18-01.16.54:366][812]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.18-01.17.00:919][812]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.18-01.17.01:394][812]LogMaterial: Display: Missing cached shader map for material FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42Mat, compiling. 
+[2020.01.18-01.17.01:439][812]LogFbx: Display: Triangulating static mesh FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42
+[2020.01.18-01.17.01:695][812]LogStaticMesh: Building static mesh igloo_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42...
+[2020.01.18-01.17.01:744][812]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2020.01.18-01.17.01:784][812]LogStaticMesh: Built static mesh [0.09s] /Game/TopDownBP/Blueprints/Models/igloo_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42.igloo_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42
+[2020.01.18-01.17.01:876][812]LogMaterial: Display: Missing cached shader map for material igloo_group42_FBXASC231FBXASC144FBXASC131FBXASC228FBXASC189FBXASC147_1Mat, compiling. 
+[2020.01.18-01.17.01:894][812]LogFbx: Display: Triangulating static mesh igloo_group42_FBXASC231FBXASC144FBXASC131FBXASC228FBXASC189FBXASC147_1
+[2020.01.18-01.17.01:912][812]LogStaticMesh: Building static mesh igloo_igloo_group42_FBXASC231FBXASC144FBXASC131FBXASC228FBXASC189FBXASC147_1...
+[2020.01.18-01.17.01:940][812]LogStaticMesh: Built static mesh [0.03s] /Game/TopDownBP/Blueprints/Models/igloo_igloo_group42_FBXASC231FBXASC144FBXASC131FBXASC228FBXASC189FBXASC147_1.igloo_igloo_group42_FBXASC231FBXASC144FBXASC131FBXASC228FBXASC189FBXASC147_1
+[2020.01.18-01.17.01:972][812]LogMaterial: Display: Missing cached shader map for material igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_1Mat, compiling. 
+[2020.01.18-01.17.01:993][812]LogFbx: Display: Triangulating static mesh igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_1
+[2020.01.18-01.17.02:008][812]LogStaticMesh: Building static mesh igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_1...
+[2020.01.18-01.17.02:013][812]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Blueprints/Models/igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_1.igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_1
+[2020.01.18-01.17.02:042][812]LogMaterial: Display: Missing cached shader map for material igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_2Mat, compiling. 
+[2020.01.18-01.17.02:059][812]LogFbx: Display: Triangulating static mesh igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_2
+[2020.01.18-01.17.02:074][812]LogStaticMesh: Building static mesh igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_2...
+[2020.01.18-01.17.02:081][812]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Blueprints/Models/igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_2.igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_2
+[2020.01.18-01.17.02:109][812]LogMaterial: Display: Missing cached shader map for material igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_3Mat, compiling. 
+[2020.01.18-01.17.02:130][812]LogFbx: Display: Triangulating static mesh igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_3
+[2020.01.18-01.17.02:151][812]LogStaticMesh: Building static mesh igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_3...
+[2020.01.18-01.17.02:155][812]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Blueprints/Models/igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_3.igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_3
+[2020.01.18-01.17.02:184][812]LogMaterial: Display: Missing cached shader map for material igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_4Mat, compiling. 
+[2020.01.18-01.17.02:202][812]LogFbx: Display: Triangulating static mesh igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_4
+[2020.01.18-01.17.02:222][812]LogStaticMesh: Building static mesh igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_4...
+[2020.01.18-01.17.02:226][812]LogStaticMesh: Built static mesh [0.00s] /Game/TopDownBP/Blueprints/Models/igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_4.igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_4
+[2020.01.18-01.17.02:288][812]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.18-01.17.04:185][864]LogShaderCompilers: Display: Shaders left to compile 90
+[2020.01.18-01.17.04:643][887]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.01.18-01.17.06:403][987]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.01.18-01.17.06:713][  5]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.18-01.17.06:781][  9]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.17.06:787][  9]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.17.06:848][ 12]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.18-01.17.09:526][155]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.18-01.17.09:723][166]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.18-01.17.10:526][210]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.18-01.17.10:986][234]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.18-01.17.19:862][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.17.20:025][749]LogAssetEditorManager: Opening Asset editor for Material /Game/TopDownBP/Blueprints/Models/FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42Mat.FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42Mat
+[2020.01.18-01.17.20:053][749]LogMaterial: Display: Missing cached shader map for material FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42Mat, compiling. 
+[2020.01.18-01.17.20:812][749]LogMaterial: Display: Missing cached shader map for material FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42Mat, compiling. 
+[2020.01.18-01.17.20:840][749]LogMaterial: Display: Missing cached shader map for material FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42Mat, compiling. 
+[2020.01.18-01.17.20:861][749]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.18-01.17.20:888][749]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.01.18-01.17.21:696][782]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.18-01.17.23:088][865]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.01.18-01.17.23:089][865]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.01.18-01.17.23:089][865]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.18-01.17.23:089][865]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.18-01.17.28:678][ 90]LogUObjectHash: Compacting FUObjectHashTables data took  10.53ms
+[2020.01.18-01.17.29:603][ 90]LogSlate: Window 'Save Content' being destroyed
+[2020.01.18-01.17.29:675][ 90]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/FBXASC231FBXASC174FBXASC161FBXAS2ADCD3B844057885884711AA7FB1363E.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Models/FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42Mat.uasset'
+[2020.01.18-01.17.29:715][ 90]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/igloo_FBXASC231FBXASC174FBXASC16404F6C7446E8C80F14B1489DF11DD7C1.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Models/igloo_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42.uasset'
+[2020.01.18-01.17.29:782][ 90]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/igloo_group42_FBXASC231FBXASC144B5683F5B49830CB3A49C53B2EF91D26E.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Models/igloo_group42_FBXASC231FBXASC144FBXASC131FBXASC228FBXASC189FBXASC147_1Mat.uasset'
+[2020.01.18-01.17.29:845][ 90]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/igloo_group42_FBXASC231FBXASC174A68F81F6424B3889FA546F9F8FDF34D3.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Models/igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_1Mat.uasset'
+[2020.01.18-01.17.29:902][ 90]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/igloo_group42_FBXASC231FBXASC1747C91915E415179B50823F2A9AD7D58A3.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Models/igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_2Mat.uasset'
+[2020.01.18-01.17.29:947][ 90]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/igloo_group42_FBXASC231FBXASC1740A3BCF214254321D2DD880B38FC1385D.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Models/igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_3Mat.uasset'
+[2020.01.18-01.17.29:991][ 90]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/igloo_group42_FBXASC231FBXASC17404143CE54D075224C58A6F933CF8FF86.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Models/igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_4Mat.uasset'
+[2020.01.18-01.17.30:037][ 90]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/igloo_igloo_group42_FBXASC231FBX0B42DF2E4D534DF4A188E69C59074068.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Models/igloo_igloo_group42_FBXASC231FBXASC144FBXASC131FBXASC228FBXASC189FBXASC147_1.uasset'
+[2020.01.18-01.17.30:083][ 90]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/igloo_igloo_group42_FBXASC231FBXA2EF87E341C1803BDB00C193B1AA6211.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Models/igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_1.uasset'
+[2020.01.18-01.17.30:122][ 90]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/igloo_igloo_group42_FBXASC231FBXEE07B71E43C42C9BEC3946ACE3373BEA.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Models/igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_2.uasset'
+[2020.01.18-01.17.30:159][ 90]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/igloo_igloo_group42_FBXASC231FBXAD7AA5704C6D5477B1F42BB7FCE6AC71.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Models/igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_3.uasset'
+[2020.01.18-01.17.30:198][ 90]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/igloo_igloo_group42_FBXASC231FBX221BDEDD4F593BCD09CFE292A08EC7D6.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Models/igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_4.uasset'
+[2020.01.18-01.17.30:287][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.01.18-01.17.30:679][ 90]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMapB81A03FA48B69F987419A98ADF5B9BC4.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-01.17.30:708][ 90]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.500
+[2020.01.18-01.17.32:176][163]LogActorFactory: Actor Factory created igloo_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42
+[2020.01.18-01.17.32:931][208]LogActorFactory: Actor Factory created igloo_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42
+[2020.01.18-01.17.43:918][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.17.44:081][868]LogActorFactory: Actor Factory created igloo_igloo_group42_FBXASC231FBXASC144FBXASC131FBXASC228FBXASC189FBXASC147_1
+[2020.01.18-01.17.45:422][948]LogActorFactory: Actor Factory created igloo_igloo_group42_FBXASC231FBXASC144FBXASC131FBXASC228FBXASC189FBXASC147_1
+[2020.01.18-01.17.48:474][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.17.52:786][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.01.18-01.17.53:976][357]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.18-01.17.56:651][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.18-01.17.57:480][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.17.58:748][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.18-01.17.59:188][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (igloo_igloo_group42_FBXASC231FBXASC144FBXASC131FBXASC228FBXASC189FBXASC147_1)
+[2020.01.18-01.17.59:575][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (igloo_igloo_group42_FBXASC231FBXASC144FBXASC131FBXASC228FBXASC189FBXASC147_1)
+[2020.01.18-01.18.00:728][749]Cmd: DELETE
+[2020.01.18-01.18.00:728][749]Cmd: ACTOR DELETE
+[2020.01.18-01.18.00:730][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.18-01.18.00:788][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.01.18-01.18.00:788][749]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2020.01.18-01.18.02:054][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (igloo_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42)
+[2020.01.18-01.18.02:420][842]Cmd: DELETE
+[2020.01.18-01.18.02:420][842]Cmd: ACTOR DELETE
+[2020.01.18-01.18.02:422][842]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.18-01.18.02:485][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.01.18-01.18.02:486][842]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2020.01.18-01.18.03:046][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.18.04:065][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.01.18-01.18.04:493][930]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMap5B73D0BC45F31ECAF3F6DEA63879160C.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-01.18.12:667][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.18.23:166][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.18.46:001][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.18.49:027][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.18.49:076][973]BlueprintLog: New page: Compile Iglu
+[2020.01.18-01.18.49:489][973]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.01.18-01.18.50:293][  7]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/Iglu1FDEDDA74C8A391F16C29B900B2CAD76.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/InventoryLogic/Builds/Iglu.uasset'
+[2020.01.18-01.18.51:380][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.18.57:030][404]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.01.18-01.19.03:535][404]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.18-01.19.03:567][404]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.18-01.19.04:009][404]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.18-01.19.04:602][404]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.18-01.19.04:863][404]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.18-01.19.05:248][404]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.18-01.19.05:448][404]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.18-01.19.05:702][404]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.18-01.19.05:875][404]LogUObjectGlobals: Force Deleting 12 Package(s):
+	Asset Name: /Game/TopDownBP/Blueprints/Models/igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_4.igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_4
+	Asset Name: /Game/TopDownBP/Blueprints/Models/FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42Mat.FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42Mat
+	Asset Name: /Game/TopDownBP/Blueprints/Models/igloo_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42.igloo_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_5_igloo_group42
+	Asset Name: /Game/TopDownBP/Blueprints/Models/igloo_group42_FBXASC231FBXASC144FBXASC131FBXASC228FBXASC189FBXASC147_1Mat.igloo_group42_FBXASC231FBXASC144FBXASC131FBXASC228FBXASC189FBXASC147_1Mat
+	Asset Name: /Game/TopDownBP/Blueprints/Models/igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_1Mat.igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_1Mat
+	Asset Name: /Game/TopDownBP/Blueprints/Models/igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_2Mat.igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_2Mat
+	Asset Name: /Game/TopDownBP/Blueprints/Models/igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_3Mat.igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_3Mat
+	Asset Name: /Game/TopDownBP/Blueprints/Models/igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_4Mat.igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_4Mat
+	Asset Name: /Game/TopDownBP/Blueprints/Models/igloo_igloo_group42_FBXASC231FBXASC144FBXASC131FBXASC228FBXASC189FBXASC147_1.igloo_igloo_group42_FBXASC231FBXASC144FBXASC131FBXASC228FBXASC189FBXASC147_1
+	Asset Name: /Game/TopDownBP/Blueprints/Models/igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_1.igloo_igloo_group42_FBXASC231FBXASC174FBXASC161FBXASC233FBXASC129FBXASC147_1
+[2020.01.18-01.19.11:101][404]LogUObjectHash: Compacting FUObjectHashTables data took  12.99ms
+[2020.01.18-01.19.11:294][404]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.01.18-01.19.11:321][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.01.18-01.19.11:356][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.01.18-01.19.11:388][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.01.18-01.19.11:415][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.01.18-01.19.11:445][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.01.18-01.19.11:478][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.01.18-01.19.11:516][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.01.18-01.19.11:546][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.01.18-01.19.11:578][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.01.18-01.19.11:609][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.01.18-01.19.11:638][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.01.18-01.19.11:669][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.01.18-01.19.33:005][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.01.18-01.19.33:201][680]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMap5CEA5275470D03F62FDCD39876C26B2A.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-01.25.10:764][897]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\pau74\Downloads\penguin/source/Penguin_SK.fbx)
+[2020.01.18-01.25.10:831][897]LogFbx: Loading FBX Scene from C:\Users\pau74\Downloads\penguin/source/Penguin_SK.fbx
+[2020.01.18-01.25.11:025][897]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.18-01.25.12:890][897]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.18-01.25.13:147][897]LogFbx: =================================================
+[2020.01.18-01.25.13:147][897]LogFbx: Dumping Node START [Penguin] 
+[2020.01.18-01.25.13:147][897]LogFbx: 	Total Deformer Count 1125941672.
+[2020.01.18-01.25.13:147][897]LogFbx: 		[Node 1] PenguinArmature (Type Skin).
+[2020.01.18-01.25.13:147][897]LogFbx: =================================================
+[2020.01.18-01.25.13:147][897]LogFbx: 	Attribute (RetopoFlow.022) Type (4).
+[2020.01.18-01.25.13:147][897]LogFbx: 		[Node Attribute Child 1] Penguin (Type Mesh).
+[2020.01.18-01.25.13:147][897]LogFbx: Dumping Node END [Penguin]
+[2020.01.18-01.25.13:148][897]LogFbx: =================================================
+[2020.01.18-01.25.13:148][897]LogFbx: Dumping Node START [Penguin] 
+[2020.01.18-01.25.13:148][897]LogFbx: 	Total Deformer Count 1125945032.
+[2020.01.18-01.25.13:148][897]LogFbx: 		[Node 1] PenguinArmature (Type Skin).
+[2020.01.18-01.25.13:148][897]LogFbx: =================================================
+[2020.01.18-01.25.13:148][897]LogFbx: 	Attribute (RetopoFlow.022) Type (4).
+[2020.01.18-01.25.13:148][897]LogFbx: 		[Node Attribute Child 1] Penguin (Type Mesh).
+[2020.01.18-01.25.13:148][897]LogFbx: Dumping Node END [Penguin]
+[2020.01.18-01.25.13:152][897]LogFbx: Valid bind pose for Pose (RetopoFlow.022) - Penguin
+[2020.01.18-01.25.13:172][897]LogMaterial: Warning: Material /Game/TopDownBP/Blueprints/Models/penguin/source/Material.Material needed to have new flag set bUsedWithSkeletalMesh !
+[2020.01.18-01.25.13:175][897]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.01.18-01.25.13:243][897]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.01.18-01.25.13:292][897]LogFbx: Triangulating skeletal mesh Penguin
+[2020.01.18-01.25.13:556][897]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.18-01.25.13:556][897]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.18-01.25.13:556][897]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.18-01.25.13:556][897]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.18-01.25.13:556][897]LogFbx: Warning: Bones digested - 21  Depth of hierarchy - 8
+[2020.01.18-01.25.13:726][897]LogSkeletalMesh: Section 0: 2106 vertices, 19 active bones
+[2020.01.18-01.25.13:727][897]LogSkeletalMesh: Section 0: Material=0, 3408 triangles
+[2020.01.18-01.25.13:731][897]LogSkeletalMesh: Building Skeletal Mesh Penguin_SK...
+[2020.01.18-01.25.13:773][897]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/TopDownBP/Blueprints/Models/penguin/source/Penguin_SK.Penguin_SK
+[2020.01.18-01.25.13:780][897]LogLinker: Can't find file '/Game/TopDownBP/Blueprints/Models/penguin/source/Penguin_SK_Skeleton'
+[2020.01.18-01.25.13:780][897]LogLinker: Can't find file '/Game/TopDownBP/Blueprints/Models/penguin/source/Penguin_SK_Skeleton'
+[2020.01.18-01.25.13:804][897]LogLinker: Can't find file '/Game/TopDownBP/Blueprints/Models/penguin/source/Penguin_SK_PhysicsAsset'
+[2020.01.18-01.25.13:805][897]LogLinker: Can't find file '/Game/TopDownBP/Blueprints/Models/penguin/source/Penguin_SK_PhysicsAsset'
+[2020.01.18-01.25.13:831][897]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.01.18-01.25.13:869][897]LogSkeletalMesh: Building Skeletal Mesh Penguin_SK...
+[2020.01.18-01.25.13:876][897]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/TopDownBP/Blueprints/Models/penguin/source/Penguin_SK.Penguin_SK
+[2020.01.18-01.25.13:912][897]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.18-01.25.13:925][897]LogSkeletalMesh: Building Skeletal Mesh Penguin_SK...
+[2020.01.18-01.25.13:933][897]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/TopDownBP/Blueprints/Models/penguin/source/Penguin_SK.Penguin_SK
+[2020.01.18-01.25.13:949][897]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pau74\Downloads\penguin/textures/DefaultMaterial_Base_Color.png)
+[2020.01.18-01.25.13:992][897]LogTexture: Display: Building textures: DefaultMaterial_Base_Color (AutoDXT, 1024X1024)
+[2020.01.18-01.25.14:151][897]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pau74\Downloads\penguin/textures/DefaultMaterial_Mixed_AO.png)
+[2020.01.18-01.25.14:166][897]LogTexture: Display: Building textures: DefaultMaterial_Mixed_AO (AutoDXT, 1024X1024)
+[2020.01.18-01.25.14:291][897]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pau74\Downloads\penguin/textures/DefaultMaterial_Normal_OpenGL.png)
+[2020.01.18-01.25.14:341][897]LogTexture: Display: Building textures: DefaultMaterial_Normal_OpenGL (BC5, 1024X1024)
+[2020.01.18-01.25.14:458][897]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pau74\Downloads\penguin/textures/DefaultMaterial_Opacity.png)
+[2020.01.18-01.25.14:473][897]LogTexture: Display: Building textures: DefaultMaterial_Opacity (AutoDXT, 1024X1024)
+[2020.01.18-01.25.14:602][897]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pau74\Downloads\penguin/textures/DefaultMaterial_Roughness.png)
+[2020.01.18-01.25.14:617][897]LogTexture: Display: Building textures: DefaultMaterial_Roughness (AutoDXT, 1024X1024)
+[2020.01.18-01.25.17:396][ 38]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.18-01.25.17:885][ 66]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.18-01.25.19:789][175]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.25.19:797][175]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.25.22:895][360]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2020.01.18-01.25.26:649][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.25.26:728][565]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Default/TopDownCharacter.TopDownCharacter
+[2020.01.18-01.25.29:090][649]LogSlate: Window 'TopDownCharacter' being destroyed
+[2020.01.18-01.25.38:261][168]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Penguin_SK_Skeleton, removing AnimBP from actor.
+[2020.01.18-01.25.38:262][168]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Penguin_SK_Skeleton, removing AnimBP from actor.
+[2020.01.18-01.25.38:264][168]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Penguin_SK_Skeleton, removing AnimBP from actor.
+[2020.01.18-01.25.38:264][168]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Penguin_SK_Skeleton, removing AnimBP from actor.
+[2020.01.18-01.25.42:393][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.25.51:381][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.25.59:508][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.26.07:235][886]BlueprintLog: New page: Compile TopDownCharacter
+[2020.01.18-01.26.07:694][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.01.18-01.26.08:038][896]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownCharacter40AFF3724A1832427EFF43888BCF4F01.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Default/TopDownCharacter.uasset'
+[2020.01.18-01.26.09:957][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.26.10:972][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.01.18-01.26.11:189][ 55]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMap19BB8F9E40644AE7F8AD31BAA4839581.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-01.26.13:028][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.26.13:078][157]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.18-01.26.13:092][157]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.26.13:092][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.18-01.26.13:092][157]PIE: New page: PIE session: TopDownExampleMap (Jan 18, 2020, 3:26:13 AM)
+[2020.01.18-01.26.13:092][157]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.18-01.26.13:106][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013449s)
+[2020.01.18-01.26.13:107][157]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.18-01.26.13:107][157]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2020.01.18-01.26.13:107][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014937s)
+[2020.01.18-01.26.13:144][157]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.01.18-01.26.13:169][157]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-01.26.13:190][157]LogInit: FAudioDevice initialized.
+[2020.01.18-01.26.13:225][157]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.18-01.26.13:227][157]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.01.18-02.26.13
+[2020.01.18-01.26.13:228][157]LogWorld: Bringing up level for play took: 0.002696
+[2020.01.18-01.26.13:241][157]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.183
+[2020.01.18-01.26.13:241][157]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.26.21:127][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InvWindowWidget". Blueprint:  Iglu Function:  Execute Ubergraph Iglu Graph:  EventGraph Node:  Set SlotWidget
+[2020.01.18-01.26.21:127][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotWidget". Blueprint:  Iglu Function:  Execute Ubergraph Iglu Graph:  EventGraph Node:  Update Slot
+[2020.01.18-01.26.32:996][337]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.26.32:997][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.26.33:031][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.18-01.26.33:031][337]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.26.33:069][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.26.33:077][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.01.18-01.26.33:085][337]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.26.33:125][338]LogPlayLevel: Display: Destroying online subsystem :Context_267
+[2020.01.18-01.26.34:368][412]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.26.34:375][412]LogSlate: Window 'Message Log' being destroyed
+[2020.01.18-01.26.48:913][277]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2020.01.18-01.26.50:078][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.26.50:964][375]LogMaterial: Display: Missing cached shader map for material DefaultMaterial_Base_Color_Mat, compiling. 
+[2020.01.18-01.26.50:992][375]LogMaterial: Warning: Material /Game/TopDownBP/Blueprints/Models/penguin/textures/DefaultMaterial_Base_Color_Mat.DefaultMaterial_Base_Color_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2020.01.18-01.26.50:996][375]LogMaterial: Display: Missing cached shader map for material DefaultMaterial_Base_Color_Mat, compiling. 
+[2020.01.18-01.26.51:060][376]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.18-01.26.52:000][412]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.18-01.26.53:054][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.26.53:225][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.01.18-01.26.53:552][458]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMapE6F44BE84936AD9880D7EE95305A95D6.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-01.26.55:034][516]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.18-01.26.55:058][517]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.18-01.26.57:804][627]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.18-01.26.58:433][653]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.18-01.27.01:600][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.27.02:396][828]LogMaterial: Display: Missing cached shader map for material DefaultMaterial_Roughness_Mat, compiling. 
+[2020.01.18-01.27.02:422][828]LogMaterial: Warning: Material /Game/TopDownBP/Blueprints/Models/penguin/textures/DefaultMaterial_Roughness_Mat.DefaultMaterial_Roughness_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2020.01.18-01.27.02:424][828]LogMaterial: Display: Missing cached shader map for material DefaultMaterial_Roughness_Mat, compiling. 
+[2020.01.18-01.27.02:611][832]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.01.18-01.27.03:052][848]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.01.18-01.27.05:255][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.27.06:209][965]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.18-01.27.06:350][970]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.18-01.27.08:529][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.27.08:730][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.01.18-01.27.09:061][ 56]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.18-01.27.09:061][ 56]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMapEEBFC502430D3254D60974BC0A25EB97.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-01.27.09:648][ 76]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.18-01.27.15:515][342]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.27.18:748][508]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.27.20:363][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.27.26:881][970]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.18-01.29.30:342][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.01.18-01.29.30:560][207]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMapA2F627E040FBF06AC8C5489A22016606.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-01.29.31:711][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.01.18-01.29.33:088][227]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMap659B054E457BF51A456910A58AF7B3FE.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-01.29.34:070][280]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.18-01.29.34:083][280]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.29.34:083][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.18-01.29.34:083][280]PIE: New page: PIE session: TopDownExampleMap (Jan 18, 2020, 3:29:34 AM)
+[2020.01.18-01.29.34:083][280]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.18-01.29.34:096][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012686s)
+[2020.01.18-01.29.34:097][280]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.18-01.29.34:097][280]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2020.01.18-01.29.34:097][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013842s)
+[2020.01.18-01.29.34:136][280]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.01.18-01.29.34:158][280]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-01.29.34:178][280]LogInit: FAudioDevice initialized.
+[2020.01.18-01.29.34:211][280]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.18-01.29.34:214][280]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.01.18-02.29.34
+[2020.01.18-01.29.34:214][280]LogWorld: Bringing up level for play took: 0.002008
+[2020.01.18-01.29.34:228][280]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.803
+[2020.01.18-01.29.34:228][280]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.29.37:728][486]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.29.37:729][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.29.37:768][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.18-01.29.37:768][486]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.29.37:807][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.29.37:814][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.01.18-01.29.37:854][487]LogPlayLevel: Display: Destroying online subsystem :Context_268
+[2020.01.18-01.29.43:200][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.29.51:531][290]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.29.55:706][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.29.55:875][541]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownCharacter324DAED3451E97FB514E6AAA2F374A0F.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Default/TopDownCharacter.uasset'
+[2020.01.18-01.30.01:114][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.30.23:414][186]BlueprintLog: New page: Compile TopDownCharacter
+[2020.01.18-01.30.23:657][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.01.18-01.30.24:185][209]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownCharacter1BFBF1F04B48B745662C34887DFBB634.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Blueprints/Default/TopDownCharacter.uasset'
+[2020.01.18-01.30.25:804][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.01.18-01.30.26:013][301]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMapDD9EEF9C4C19F85A8D2D51A1C7FAC46E.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.01.18-01.30.26:487][327]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.18-01.30.26:503][327]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.30.26:503][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.18-01.30.26:503][327]PIE: New page: PIE session: TopDownExampleMap (Jan 18, 2020, 3:30:26 AM)
+[2020.01.18-01.30.26:503][327]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.18-01.30.26:514][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011145s)
+[2020.01.18-01.30.26:515][327]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.18-01.30.26:515][327]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2020.01.18-01.30.26:515][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012364s)
+[2020.01.18-01.30.26:579][327]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.01.18-01.30.26:601][327]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.18-01.30.26:621][327]LogInit: FAudioDevice initialized.
+[2020.01.18-01.30.26:652][327]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.01.18-01.30.26:655][327]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.01.18-02.30.26
+[2020.01.18-01.30.26:655][327]LogWorld: Bringing up level for play took: 0.001644
+[2020.01.18-01.30.26:669][327]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.756
+[2020.01.18-01.30.26:669][327]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.30.40:389][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.30.40:390][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.30.40:425][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.18-01.30.40:426][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.18-01.30.40:464][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.18-01.30.40:469][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.01.18-01.30.40:495][149]LogPlayLevel: Display: Destroying online subsystem :Context_269
+[2020.01.18-01.30.42:514][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-01.31.17:125][ 38]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2020.01.18-01.31.23:874][433]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-01.31.41:366][473]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.18-01.31.52:422][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.01.18-01.31.52:623][127]LogSavePackage: Moving '../../../../../../Github/ProyectoUnreal/UnrealProject/Saved/TopDownExampleMap8DDD67584FF42D1E285115A4B0A4343B.tmp' to '../../../../../../Github/ProyectoUnreal/UnrealProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
