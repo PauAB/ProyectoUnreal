@@ -1,0 +1,451 @@
+Begin Object Class=/Script/Engine.MaterialFunction Name="MF_Cave_Snow"
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMakeMaterialAttributes Name="MaterialExpressionMakeMaterialAttributes_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNormalize Name="MaterialExpressionNormalize_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPower Name="MaterialExpressionPower_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_19"
+   End Object
+   Begin Object Name="MaterialExpressionClamp_10"
+      Input=(Expression=MaterialExpressionMultiply'"MF_Cave_Snow:MaterialExpressionMultiply_5"')
+      MaterialExpressionEditorX=-267
+      MaterialExpressionEditorY=415
+      MaterialExpressionGuid=EECCAE2F470F5307F095CC9A14175231
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_11"
+      Input=(Expression=MaterialExpressionLinearInterpolate'"MF_Cave_Snow:MaterialExpressionLinearInterpolate_6"')
+      MaterialExpressionEditorX=-271
+      MaterialExpressionEditorY=751
+      MaterialExpressionGuid=4296E1E54E6261691F151EB3B6A53DE1
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_12"
+      Input=(Expression=MaterialExpressionConstant'"MF_Cave_Snow:MaterialExpressionConstant_13"')
+      MaterialExpressionEditorX=-268
+      MaterialExpressionEditorY=563
+      MaterialExpressionGuid=86FE3BEE48B49BD7625A1DBB8E19BD92
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_13"
+      Input=(Expression=MaterialExpressionNormalize'"MF_Cave_Snow:MaterialExpressionNormalize_0"')
+      MinDefault=-10.000000
+      MaxDefault=10.000000
+      MaterialExpressionEditorX=-268
+      MaterialExpressionEditorY=892
+      MaterialExpressionGuid=756E7F80496A9C945CB723A4C6C19AD8
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_0"
+      Input=(Expression=MaterialExpressionFunctionInput'"MF_Cave_Snow:MaterialExpressionFunctionInput_1"')
+      R=True
+      MaterialExpressionEditorX=-1401
+      MaterialExpressionEditorY=1058
+      MaterialExpressionGuid=0FB824D74098C9BF590C42980C826FDE
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      MaterialExpressionEditorX=-2642
+      MaterialExpressionEditorY=106
+      MaterialExpressionGuid=CC419EE2420EF840EA02B8887B66DB3B
+      Function=MaterialFunction'"MF_Cave_Snow"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionConstant_11"
+      R=0.300000
+      MaterialExpressionEditorX=-1461
+      MaterialExpressionEditorY=525
+      MaterialExpressionGuid=592B2486478448C99A51099173262D66
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_13"
+      MaterialExpressionEditorX=-755
+      MaterialExpressionEditorY=347
+      MaterialExpressionGuid=AF9A91964179736B0FB64FAF79E3AF63
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_15"
+      R=0.600000
+      MaterialExpressionEditorX=-1460
+      MaterialExpressionEditorY=700
+      MaterialExpressionGuid=8673CBB64D8E2963BAC614823F03F70F
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_17"
+      R=0.300000
+      MaterialExpressionEditorX=-2633
+      MaterialExpressionEditorY=-71
+      MaterialExpressionGuid=061D048D4645BB0486803EBA26DF2F72
+      Function=MaterialFunction'"MF_Cave_Snow"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionConstant_3"
+      R=1.000000
+      MaterialExpressionEditorX=-2647
+      MaterialExpressionEditorY=280
+      MaterialExpressionGuid=FE1AECF04EDAC9211988A39067A9A0C0
+      Function=MaterialFunction'"MF_Cave_Snow"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionConstant_5"
+      R=0.500000
+      MaterialExpressionEditorX=-2662
+      MaterialExpressionEditorY=465
+      MaterialExpressionGuid=E85CF7FF4BD0D2BAEBA0AB8F74D06625
+      Function=MaterialFunction'"MF_Cave_Snow"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_0"
+      Constant=(R=0.800000,G=0.900000,B=0.950000,A=0.000000)
+      MaterialExpressionEditorX=-1366
+      MaterialExpressionEditorY=7
+      MaterialExpressionGuid=C7F1174C483AAAED6682D28190684A66
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_1"
+      Constant=(R=1.000000,G=1.000000,B=2.000000,A=0.000000)
+      MaterialExpressionEditorX=-2353
+      MaterialExpressionEditorY=1676
+      MaterialExpressionGuid=28F4105F4DEF26289C534787995F9191
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_0"
+      InputName="SnowTiliing"
+      Id=D59308BB4CA7740083FA6FB0088A56CE
+      InputType=FunctionInput_Scalar
+      PreviewValue=(X=3.000000,Y=0.000000,Z=0.000000,W=1.000000)
+      bUsePreviewValueAsDefault=True
+      SortPriority=-30
+      MaterialExpressionEditorX=-3203
+      MaterialExpressionEditorY=620
+      MaterialExpressionGuid=97D7ED054F7C8C9B028F7AABD030EBDA
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_1"
+      Preview=(Expression=MaterialExpressionTextureSample'"MF_Cave_Snow:MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      InputName="SnowTexture"
+      Id=A4CE0ACF4B7C8EDC2E6F06AFAE10F153
+      bUsePreviewValueAsDefault=True
+      SortPriority=-32
+      MaterialExpressionEditorX=-2258
+      MaterialExpressionEditorY=-262
+      MaterialExpressionGuid=FB026BAA44AB76817CA188B66733E52E
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_10"
+      Preview=(Expression=MaterialExpressionConstant'"MF_Cave_Snow:MaterialExpressionConstant_15"')
+      InputName="SnowRoughnessMax"
+      Id=78D08C424AC77629E1D090B50AF145FA
+      InputType=FunctionInput_Scalar
+      PreviewValue=(X=3.000000,Y=0.000000,Z=0.000000,W=1.000000)
+      bUsePreviewValueAsDefault=True
+      SortPriority=-4
+      MaterialExpressionEditorX=-1051
+      MaterialExpressionEditorY=696
+      MaterialExpressionGuid=593086214473DA65F1DB24A1B7390600
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_12"
+      Preview=(Expression=MaterialExpressionConstant'"MF_Cave_Snow:MaterialExpressionConstant_5"')
+      InputName="Fuzzy_EdgeBrightness"
+      Id=B4BD576D404949159C45818105B462D5
+      InputType=FunctionInput_Scalar
+      PreviewValue=(X=3.000000,Y=0.000000,Z=0.000000,W=1.000000)
+      bUsePreviewValueAsDefault=True
+      SortPriority=-3
+      MaterialExpressionEditorX=-2270
+      MaterialExpressionEditorY=461
+      MaterialExpressionGuid=8A6BF97340CD5F2BA4AA08A62233A20C
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_3"
+      Preview=(Expression=MaterialExpressionTextureSample'"MF_Cave_Snow:MaterialExpressionTextureSample_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      InputName="SnowNormal"
+      Id=E0478246444152FEB28FC5B18DFB847D
+      bUsePreviewValueAsDefault=True
+      SortPriority=-31
+      MaterialExpressionEditorX=-2356
+      MaterialExpressionEditorY=1421
+      MaterialExpressionGuid=5D1450F34C9C7A473521D88EAA9956B2
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_4"
+      Preview=(Expression=MaterialExpressionConstant'"MF_Cave_Snow:MaterialExpressionConstant_17"')
+      InputName="SnowPower"
+      Id=42C61C244A8126F42A549797CC41A692
+      InputType=FunctionInput_Scalar
+      PreviewValue=(X=3.000000,Y=0.000000,Z=0.000000,W=1.000000)
+      bUsePreviewValueAsDefault=True
+      SortPriority=-15
+      MaterialExpressionEditorX=-2260
+      MaterialExpressionEditorY=-71
+      MaterialExpressionGuid=1632B5D94A833F4B7D14F499C2B1567D
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_5"
+      Preview=(Expression=MaterialExpressionConstant'"MF_Cave_Snow:MaterialExpressionConstant_1"')
+      InputName="Fuzzy_CoreDarkness"
+      Id=9758BA3C4BCAE045183E40AC59D1B8EB
+      InputType=FunctionInput_Scalar
+      PreviewValue=(X=3.000000,Y=0.000000,Z=0.000000,W=1.000000)
+      bUsePreviewValueAsDefault=True
+      SortPriority=-1
+      MaterialExpressionEditorX=-2261
+      MaterialExpressionEditorY=106
+      MaterialExpressionGuid=164A82C440ED1AB21E70CC942AF82A50
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_6"
+      Preview=(Expression=MaterialExpressionConstant3Vector'"MF_Cave_Snow:MaterialExpressionConstant3Vector_0"')
+      InputName="SnowMultiply"
+      Id=3C77EF5149E2DCD32A673783EEBCD292
+      PreviewValue=(X=3.000000,Y=0.000000,Z=0.000000,W=1.000000)
+      bUsePreviewValueAsDefault=True
+      SortPriority=-16
+      MaterialExpressionEditorX=-1033
+      MaterialExpressionEditorY=3
+      MaterialExpressionGuid=0742BB3743A577AF6FAC86A832295BA9
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_8"
+      Preview=(Expression=MaterialExpressionConstant'"MF_Cave_Snow:MaterialExpressionConstant_11"')
+      InputName="SnowRoughnessMin"
+      Id=D9FD64CA4428BEE1E4BF5BBE4094E897
+      InputType=FunctionInput_Scalar
+      PreviewValue=(X=3.000000,Y=0.000000,Z=0.000000,W=1.000000)
+      bUsePreviewValueAsDefault=True
+      SortPriority=-5
+      MaterialExpressionEditorX=-1052
+      MaterialExpressionEditorY=530
+      MaterialExpressionGuid=842DAFA34EB0EC796D7A39B83B0C3ADB
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_9"
+      Preview=(Expression=MaterialExpressionConstant'"MF_Cave_Snow:MaterialExpressionConstant_3"')
+      InputName="Fuzzy_Power"
+      Id=058164F14C24BF9F995223937A803F21
+      InputType=FunctionInput_Scalar
+      PreviewValue=(X=3.000000,Y=0.000000,Z=0.000000,W=1.000000)
+      bUsePreviewValueAsDefault=True
+      SortPriority=-2
+      MaterialExpressionEditorX=-2266
+      MaterialExpressionEditorY=280
+      MaterialExpressionGuid=E028059C48A73814475DCD977D3ADAE7
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_2"
+      SortPriority=-20
+      A=(Expression=MaterialExpressionMakeMaterialAttributes'"MF_Cave_Snow:MaterialExpressionMakeMaterialAttributes_0"')
+      bLastPreviewed=True
+      Id=0A06C12E4360BFB346DF219D6820D1FC
+      MaterialExpressionEditorX=392
+      MaterialExpressionEditorY=775
+      MaterialExpressionGuid=E0CD9B324E6746A4FB7CC1A884933717
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_6"
+      A=(Expression=MaterialExpressionFunctionInput'"MF_Cave_Snow:MaterialExpressionFunctionInput_8"')
+      B=(Expression=MaterialExpressionFunctionInput'"MF_Cave_Snow:MaterialExpressionFunctionInput_10"')
+      Alpha=(Expression=MaterialExpressionComponentMask'"MF_Cave_Snow:MaterialExpressionComponentMask_0"')
+      MaterialExpressionEditorX=-706
+      MaterialExpressionEditorY=732
+      MaterialExpressionGuid=B8D9CAEB4E302FE749BE65910E513C95
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionMakeMaterialAttributes_0"
+      BaseColor=(Expression=MaterialExpressionClamp'"MF_Cave_Snow:MaterialExpressionClamp_10"')
+      Metallic=(Expression=MaterialExpressionClamp'"MF_Cave_Snow:MaterialExpressionClamp_12"')
+      Roughness=(Expression=MaterialExpressionClamp'"MF_Cave_Snow:MaterialExpressionClamp_11"')
+      Normal=(Expression=MaterialExpressionClamp'"MF_Cave_Snow:MaterialExpressionClamp_13"')
+      Refraction=(Mask=1,MaskR=1,MaskG=1)
+      MaterialExpressionEditorX=76
+      MaterialExpressionEditorY=552
+      MaterialExpressionGuid=194F713D40306347085FF5A6937B8881
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_5"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.FuzzyShading"'
+      FunctionInputs(0)=(ExpressionInputId=12EA0BC74B63102B9EFB86B878288422,Input=(Expression=MaterialExpressionPower'"MF_Cave_Snow:MaterialExpressionPower_3"',InputName="BaseColor"))
+      FunctionInputs(1)=(ExpressionInputId=B40A3EF848C59DEC5D2934B91D793C36,Input=(Expression=MaterialExpressionFunctionInput'"MF_Cave_Snow:MaterialExpressionFunctionInput_3"',InputName="Normal"))
+      FunctionInputs(2)=(ExpressionInputId=C4E5184E473252BB5750DF921BBFD435,Input=(Expression=MaterialExpressionFunctionInput'"MF_Cave_Snow:MaterialExpressionFunctionInput_5"',InputName="CoreDarkness"))
+      FunctionInputs(3)=(ExpressionInputId=D8412B8744128BD144981C878655A65F,Input=(Expression=MaterialExpressionFunctionInput'"MF_Cave_Snow:MaterialExpressionFunctionInput_9"',InputName="Power"))
+      FunctionInputs(4)=(ExpressionInputId=E8684F1A4CB43BD4C9D7E0B8DEB0F410,Input=(Expression=MaterialExpressionFunctionInput'"MF_Cave_Snow:MaterialExpressionFunctionInput_12"',InputName="EdgeBrightness"))
+      FunctionOutputs(0)=(ExpressionOutputId=579B8ECE4A9E74CF27C739AB2EBE64C6,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-1363
+      MaterialExpressionEditorY=-218
+      MaterialExpressionGuid=7D65E0344626193CE60344825CF5FC7F
+      Function=MaterialFunction'"MF_Cave_Snow"'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionTextureCoordinate'"MF_Cave_Snow:MaterialExpressionTextureCoordinate_3"')
+      B=(Expression=MaterialExpressionFunctionInput'"MF_Cave_Snow:MaterialExpressionFunctionInput_0"')
+      MaterialExpressionEditorX=-3002
+      MaterialExpressionEditorY=577
+      MaterialExpressionGuid=1686ABC0407A597632134AB55E99A8A6
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_13"
+      A=(Expression=MaterialExpressionFunctionInput'"MF_Cave_Snow:MaterialExpressionFunctionInput_3"')
+      B=(Expression=MaterialExpressionConstant3Vector'"MF_Cave_Snow:MaterialExpressionConstant3Vector_1"')
+      MaterialExpressionEditorX=-1986
+      MaterialExpressionEditorY=1558
+      MaterialExpressionGuid=A4F0ECA14112CA63543CA7A85A29102B
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_5"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'"MF_Cave_Snow:MaterialExpressionMaterialFunctionCall_5"')
+      B=(Expression=MaterialExpressionFunctionInput'"MF_Cave_Snow:MaterialExpressionFunctionInput_6"')
+      MaterialExpressionEditorX=-823
+      MaterialExpressionEditorY=-163
+      MaterialExpressionGuid=A69BD4D94C55A277C88C5FA874117D28
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionNormalize_0"
+      VectorInput=(Expression=MaterialExpressionMultiply'"MF_Cave_Snow:MaterialExpressionMultiply_13"')
+      MaterialExpressionEditorX=-1670
+      MaterialExpressionEditorY=1582
+      MaterialExpressionGuid=F994008E46B18C97D0066986C1CDF272
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionPower_3"
+      Base=(Expression=MaterialExpressionFunctionInput'"MF_Cave_Snow:MaterialExpressionFunctionInput_1"')
+      Exponent=(Expression=MaterialExpressionFunctionInput'"MF_Cave_Snow:MaterialExpressionFunctionInput_4"')
+      MaterialExpressionEditorX=-1881
+      MaterialExpressionEditorY=-231
+      MaterialExpressionGuid=01A2F8EB4AE2AA642BF882AC4C5E4102
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_3"
+      MaterialExpressionEditorX=-3182
+      MaterialExpressionEditorY=355
+      MaterialExpressionGuid=E9EB208A43E0E82F6216F99F96B7A003
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Coordinates=(Expression=MaterialExpressionMultiply'"MF_Cave_Snow:MaterialExpressionMultiply_0"')
+      Texture=Texture2D'"/Game/Environment/Textures/Ice/T_Cave_Ice_Tiling_D.T_Cave_Ice_Tiling_D"'
+      MaterialExpressionEditorX=-2652
+      MaterialExpressionEditorY=-267
+      MaterialExpressionGuid=3D15B7FD47E25AA2D8788F9C28C0D074
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Coordinates=(Expression=MaterialExpressionMultiply'"MF_Cave_Snow:MaterialExpressionMultiply_0"')
+      Texture=Texture2D'"/Game/Environment/Textures/T_Glacier_Cap_N.T_Glacier_Cap_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-2766
+      MaterialExpressionEditorY=1410
+      MaterialExpressionGuid=FBCCC16B44083F1710117F801E126653
+      Function=MaterialFunction'"MF_Cave_Snow"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_19"
+   End Object
+   FunctionExpressions(0)=MaterialExpressionFunctionOutput'"MaterialExpressionFunctionOutput_2"'
+   FunctionExpressions(1)=MaterialExpressionMakeMaterialAttributes'"MaterialExpressionMakeMaterialAttributes_0"'
+   FunctionExpressions(2)=MaterialExpressionClamp'"MaterialExpressionClamp_13"'
+   FunctionExpressions(3)=MaterialExpressionNormalize'"MaterialExpressionNormalize_0"'
+   FunctionExpressions(4)=MaterialExpressionMultiply'"MaterialExpressionMultiply_13"'
+   FunctionExpressions(5)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_1"'
+   FunctionExpressions(6)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_3"'
+   FunctionExpressions(7)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"'
+   FunctionExpressions(8)=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"'
+   FunctionExpressions(9)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_0"'
+   FunctionExpressions(10)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_3"'
+   FunctionExpressions(11)=MaterialExpressionClamp'"MaterialExpressionClamp_11"'
+   FunctionExpressions(12)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_6"'
+   FunctionExpressions(13)=MaterialExpressionComponentMask'"MaterialExpressionComponentMask_0"'
+   FunctionExpressions(14)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_1"'
+   FunctionExpressions(15)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   FunctionExpressions(16)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_10"'
+   FunctionExpressions(17)=MaterialExpressionConstant'"MaterialExpressionConstant_15"'
+   FunctionExpressions(18)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_8"'
+   FunctionExpressions(19)=MaterialExpressionConstant'"MaterialExpressionConstant_11"'
+   FunctionExpressions(20)=MaterialExpressionClamp'"MaterialExpressionClamp_12"'
+   FunctionExpressions(21)=MaterialExpressionConstant'"MaterialExpressionConstant_13"'
+   FunctionExpressions(22)=MaterialExpressionClamp'"MaterialExpressionClamp_10"'
+   FunctionExpressions(23)=MaterialExpressionMultiply'"MaterialExpressionMultiply_5"'
+   FunctionExpressions(24)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_6"'
+   FunctionExpressions(25)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_0"'
+   FunctionExpressions(26)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_5"'
+   FunctionExpressions(27)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_12"'
+   FunctionExpressions(28)=MaterialExpressionConstant'"MaterialExpressionConstant_5"'
+   FunctionExpressions(29)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_9"'
+   FunctionExpressions(30)=MaterialExpressionConstant'"MaterialExpressionConstant_3"'
+   FunctionExpressions(31)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_5"'
+   FunctionExpressions(32)=MaterialExpressionConstant'"MaterialExpressionConstant_1"'
+   FunctionExpressions(33)=MaterialExpressionPower'"MaterialExpressionPower_3"'
+   FunctionExpressions(34)=MaterialExpressionFunctionInput'"MaterialExpressionFunctionInput_4"'
+   FunctionExpressions(35)=MaterialExpressionConstant'"MaterialExpressionConstant_17"'
+   StateId=CA706DF547AB5DC697FA2E8F77C238C4
+   CombinedInputTypes=15
+   CombinedOutputTypes=512
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_19"'
+End Object

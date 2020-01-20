@@ -1,0 +1,208 @@
+Begin Object Class=/Script/Engine.Material Name="M_Cave_SimpleSnow"
+   Begin Object Class=/Script/Engine.MaterialExpressionBreakMaterialAttributes Name="MaterialExpressionBreakMaterialAttributes_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_2"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionBreakMaterialAttributes_0"
+      MaterialAttributes=(Expression=MaterialExpressionMaterialFunctionCall'"M_Cave_SimpleSnow:MaterialExpressionMaterialFunctionCall_10"')
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=848951E042258C1B89CB1CBA592D1CA9
+      Material=Material'"M_Cave_SimpleSnow"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_0"
+      SizeX=912
+      SizeY=435
+      Text="Normal map texture"
+      MaterialExpressionEditorX=-2920
+      MaterialExpressionEditorY=-840
+      MaterialExpressionGuid=7187F6F24A9288098C95B38BC3358A74
+      Material=Material'"M_Cave_SimpleSnow"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_1"
+      SizeX=460
+      SizeY=480
+      Text="Cave_Snow Material Function"
+      MaterialExpressionEditorX=-1720
+      MaterialExpressionEditorY=-740
+      MaterialExpressionGuid=A40E89BE42A8CE84950343A1D51DFAFA
+      Material=Material'"M_Cave_SimpleSnow"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_2"
+      SizeX=860
+      SizeY=520
+      Text="Masked color tint Material Function"
+      MaterialExpressionEditorX=-1060
+      MaterialExpressionEditorY=-420
+      MaterialExpressionGuid=B45B635F461FE2CDBAD0C0B41BE58E16
+      Material=Material'"M_Cave_SimpleSnow"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      R=0.500000
+      MaterialExpressionEditorX=-2397
+      MaterialExpressionEditorY=-537
+      MaterialExpressionGuid=7A4586084F8C3E371FA28AB82A64617C
+      Material=Material'"M_Cave_SimpleSnow"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_5"
+      R=0.200000
+      MaterialExpressionEditorX=380
+      MaterialExpressionEditorY=-140
+      MaterialExpressionGuid=9E569B51482C12636A71D589002688AE
+      Material=Material'"M_Cave_SimpleSnow"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_6"
+      R=0.500000
+      MaterialExpressionEditorX=380
+      MaterialExpressionEditorY=160
+      MaterialExpressionGuid=BF49A5484250EA9C34E487B767DEB775
+      Material=Material'"M_Cave_SimpleSnow"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_1"
+      Constant=(R=0.000000,G=0.000000,B=1.000000,A=0.000000)
+      MaterialExpressionEditorX=-2397
+      MaterialExpressionEditorY=-637
+      MaterialExpressionGuid=6EEC5ED34B0613AA2BB341923B8A5EEC
+      Material=Material'"M_Cave_SimpleSnow"'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_2"
+      A=(Expression=MaterialExpressionTextureSample'"M_Cave_SimpleSnow:MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant3Vector'"M_Cave_SimpleSnow:MaterialExpressionConstant3Vector_1"')
+      Alpha=(Expression=MaterialExpressionConstant'"M_Cave_SimpleSnow:MaterialExpressionConstant_1"')
+      MaterialExpressionEditorX=-2197
+      MaterialExpressionEditorY=-697
+      MaterialExpressionGuid=A1A7505B4D387640D772A59236DD7B00
+      Material=Material'"M_Cave_SimpleSnow"'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_10"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/MaterialLayerFunctions/MatLayerBlend_Tint.MatLayerBlend_Tint"'
+      FunctionInputs(0)=(ExpressionInputId=7551607540174E8847FDFEA7E6975C7D,Input=(Expression=MaterialExpressionMaterialFunctionCall'"M_Cave_SimpleSnow:MaterialExpressionMaterialFunctionCall_9"',InputName="Material"))
+      FunctionInputs(1)=(ExpressionInputId=6FFD329D4F29DB65D71345AB1BDE70CB,Input=(Expression=MaterialExpressionMultiply'"M_Cave_SimpleSnow:MaterialExpressionMultiply_8"',InputName="Tint"))
+      FunctionInputs(2)=(ExpressionInputId=6ECF380F4DADE7DA7FF17CA16532CF18,Input=(OutputIndex=-1,InputName="TintMask"))
+      FunctionOutputs(0)=(ExpressionOutputId=F7C585F54643D8CAF0D51BBD9BDE2ADC,Output=(OutputName="Blended Material"))
+      MaterialExpressionEditorX=-520
+      MaterialExpressionEditorY=-300
+      MaterialExpressionGuid=96EF78FF418BF46FE58CB4B6101FEE74
+      Material=Material'"M_Cave_SimpleSnow"'
+      Outputs(0)=(OutputName="Blended Material")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_9"
+      MaterialFunction=MaterialFunction'"/Game/Environment/MaterialFunctions/MF_Cave_Snow.MF_Cave_Snow"'
+      FunctionInputs(0)=(ExpressionInputId=A4CE0ACF4B7C8EDC2E6F06AFAE10F153,Input=(OutputIndex=-1,InputName="SnowTexture"))
+      FunctionInputs(1)=(ExpressionInputId=E0478246444152FEB28FC5B18DFB847D,Input=(Expression=MaterialExpressionLinearInterpolate'"M_Cave_SimpleSnow:MaterialExpressionLinearInterpolate_2"',InputName="SnowNormal"))
+      FunctionInputs(2)=(ExpressionInputId=D59308BB4CA7740083FA6FB0088A56CE,Input=(InputName="SnowTiliing"))
+      FunctionInputs(3)=(ExpressionInputId=3C77EF5149E2DCD32A673783EEBCD292,Input=(OutputIndex=-1,InputName="SnowMultiply"))
+      FunctionInputs(4)=(ExpressionInputId=42C61C244A8126F42A549797CC41A692,Input=(OutputIndex=-1,InputName="SnowPower"))
+      FunctionInputs(5)=(ExpressionInputId=D9FD64CA4428BEE1E4BF5BBE4094E897,Input=(OutputIndex=-1,InputName="SnowRoughnessMin"))
+      FunctionInputs(6)=(ExpressionInputId=78D08C424AC77629E1D090B50AF145FA,Input=(OutputIndex=-1,InputName="SnowRoughnessMax"))
+      FunctionInputs(7)=(ExpressionInputId=B4BD576D404949159C45818105B462D5,Input=(OutputIndex=-1,InputName="Fuzzy_EdgeBrightness"))
+      FunctionInputs(8)=(ExpressionInputId=058164F14C24BF9F995223937A803F21,Input=(OutputIndex=-1,InputName="Fuzzy_Power"))
+      FunctionInputs(9)=(ExpressionInputId=9758BA3C4BCAE045183E40AC59D1B8EB,Input=(OutputIndex=-1,InputName="Fuzzy_CoreDarkness"))
+      FunctionOutputs(0)=(ExpressionOutputId=0A06C12E4360BFB346DF219D6820D1FC,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-1657
+      MaterialExpressionEditorY=-677
+      MaterialExpressionGuid=9E6015954DA07BB9E73C418255886846
+      Material=Material'"M_Cave_SimpleSnow"'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_8"
+      A=(Expression=MaterialExpressionVectorParameter'"M_Cave_SimpleSnow:MaterialExpressionVectorParameter_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionVectorParameter'"M_Cave_SimpleSnow:MaterialExpressionVectorParameter_2"',OutputIndex=4,Mask=1,MaskA=1)
+      ConstB=0.800000
+      MaterialExpressionEditorX=-660
+      MaterialExpressionEditorY=-140
+      MaterialExpressionGuid=AA818D8F453C95155391BFA6FAB8755C
+      Material=Material'"M_Cave_SimpleSnow"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_0"
+      UTiling=2.000000
+      VTiling=2.000000
+      MaterialExpressionEditorX=-2857
+      MaterialExpressionEditorY=-757
+      MaterialExpressionGuid=705EFA6D4D4C716C78498EB9EAE41DB3
+      Material=Material'"M_Cave_SimpleSnow"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Coordinates=(Expression=MaterialExpressionTextureCoordinate'"M_Cave_SimpleSnow:MaterialExpressionTextureCoordinate_0"')
+      Texture=Texture2D'"/Game/Environment/Textures/T_Glacier_Cap_N.T_Glacier_Cap_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-2637
+      MaterialExpressionEditorY=-777
+      MaterialExpressionGuid=CA84810B49EBD658934F1FA53382813B
+      Material=Material'"M_Cave_SimpleSnow"'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_2"
+      DefaultValue=(R=0.224937,G=0.261723,B=0.318583,A=1.000000)
+      ParameterName="IceColour"
+      ExpressionGUID=652A7F65449BF9F723919A89C9EECBDC
+      MaterialExpressionEditorX=-983
+      MaterialExpressionEditorY=-175
+      MaterialExpressionGuid=1F81172B40FDCD85B53B51AB0C19F2E9
+      Material=Material'"M_Cave_SimpleSnow"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionBreakMaterialAttributes'"MaterialExpressionBreakMaterialAttributes_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Metallic=(Expression=MaterialExpressionBreakMaterialAttributes'"MaterialExpressionBreakMaterialAttributes_0"',OutputIndex=1,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Specular=(Expression=MaterialExpressionBreakMaterialAttributes'"MaterialExpressionBreakMaterialAttributes_0"',OutputIndex=2,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Roughness=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_5"')
+   Normal=(Expression=MaterialExpressionBreakMaterialAttributes'"MaterialExpressionBreakMaterialAttributes_0"',OutputIndex=7,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Opacity=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_6"')
+   OpacityMask=(OutputIndex=-1,Mask=1,MaskR=1)
+   SubsurfaceColor=(OutputIndex=-1)
+   TranslucencyLightingMode=TLM_VolumetricDirectional
+   bUsedWithStaticLighting=True
+   EditorX=528
+   EditorY=-256
+   Expressions(0)=MaterialExpressionBreakMaterialAttributes'"MaterialExpressionBreakMaterialAttributes_0"'
+   Expressions(1)=MaterialExpressionConstant'"MaterialExpressionConstant_5"'
+   Expressions(2)=MaterialExpressionConstant'"MaterialExpressionConstant_6"'
+   Expressions(3)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_10"'
+   Expressions(4)=MaterialExpressionMultiply'"MaterialExpressionMultiply_8"'
+   Expressions(5)=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_2"'
+   Expressions(6)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_9"'
+   Expressions(7)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_2"'
+   Expressions(8)=MaterialExpressionConstant'"MaterialExpressionConstant_1"'
+   Expressions(9)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_1"'
+   Expressions(10)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   Expressions(11)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_0"'
+   EditorComments(0)=MaterialExpressionComment'"MaterialExpressionComment_0"'
+   EditorComments(1)=MaterialExpressionComment'"MaterialExpressionComment_1"'
+   EditorComments(2)=MaterialExpressionComment'"MaterialExpressionComment_2"'
+   MaterialFunctionInfos(0)=(StateId=91BCB3CC44A5EAB986AA59AE4D4D8EA4,Function=MaterialFunction'"/Engine/Functions/MaterialLayerFunctions/MatLayerBlend_Tint.MatLayerBlend_Tint"')
+   MaterialFunctionInfos(1)=(StateId=DD3ECAB14171CD369B81A2A485C252BA,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.FuzzyShading"')
+   MaterialFunctionInfos(2)=(StateId=CA706DF547AB5DC697FA2E8F77C238C4,Function=MaterialFunction'"/Game/Environment/MaterialFunctions/MF_Cave_Snow.MF_Cave_Snow"')
+   StateId=4BDD5050422C7EBD601BD1BE1EF58BC5
+   ReferencedTextureGuids(0)=7B16626F4D9D76E70858D9AAAA3D4227
+   ReferencedTextureGuids(1)=8BE901E44E5508851E545EA14812C338
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=DA44F4B143DE72ACA05A4285A55E3070
+End Object
