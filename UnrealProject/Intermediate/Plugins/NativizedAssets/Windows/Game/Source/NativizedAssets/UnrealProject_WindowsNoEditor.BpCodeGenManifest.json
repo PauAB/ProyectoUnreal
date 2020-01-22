@@ -1,0 +1,185 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'",
+		"Package'/Script/ClothingSystemRuntime'",
+		"Package'/Script/InputCore'",
+		"Package'/Script/NavigationSystem'",
+		"Package'/Script/Slate'",
+		"Package'/Script/UMG'",
+		"Package'/Script/AIModule'",
+		"Package'/Script/SlateCore'",
+		"Package'/Script/GameplayTasks'",
+		"Package'/Script/GameplayTags'",
+		"Package'/Script/ClothingSystemRuntimeInterface'",
+		"Package'/Script/AudioPlatformConfiguration'",
+		"Package'/Script/PropertyPath'",
+		"Package'/Script/MovieScene'"
+	],
+	"convertedAssets":
+	{
+		"/Game/TopDownBP/Blueprints/InventoryLogic/Structs/SlotStruct.SlotStruct":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/InventoryLogic/Structs/SlotStruct.SlotStruct",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/SlotStruct__pf697489738.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/SlotStruct__pf697489738.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/InventoryLogic/Structs/ItemStruct.ItemStruct":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/InventoryLogic/Structs/ItemStruct.ItemStruct",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ItemStruct__pf697489738.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ItemStruct__pf697489738.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/DialogueLogic/DialogueStruct.DialogueStruct":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/DialogueLogic/DialogueStruct.DialogueStruct",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/DialogueStruct__pf3696423911.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/DialogueStruct__pf3696423911.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/Default/TopDownCharacter.TopDownCharacter_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/Default/TopDownCharacter.TopDownCharacter_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/TopDownCharacter__pf3669546605.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/TopDownCharacter__pf3669546605.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/DialogueLogic/DialogueTrigger.DialogueTrigger_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/DialogueLogic/DialogueTrigger.DialogueTrigger_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/DialogueTrigger__pf3696423911.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/DialogueTrigger__pf3696423911.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.Item_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Item.Item_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Item__pf199495785.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Item__pf199495785.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/InventoryLogic/InventoryComponent.InventoryComponent_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/InventoryLogic/InventoryComponent.InventoryComponent_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/InventoryComponent__pf2577010357.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/InventoryComponent__pf2577010357.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/Default/TopDownController.TopDownController_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/Default/TopDownController.TopDownController_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/TopDownController__pf3669546605.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/TopDownController__pf3669546605.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingPlace.FishingPlace_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingPlace.FishingPlace_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/FishingPlace__pf1097354743.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/FishingPlace__pf1097354743.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Build.Build_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Build.Build_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Build__pf1097354743.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Build__pf1097354743.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/InventoryLogic/I_Interact.I_Interact_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/InventoryLogic/I_Interact.I_Interact_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/I_Interact__pf2577010357.h",
+			"generatedCppPath": ""
+		},
+		"/Game/TopDownBP/Blueprints/InventoryLogic/UI/GameHUD.GameHUD_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/InventoryLogic/UI/GameHUD.GameHUD_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/GameHUD__pf3980440580.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/GameHUD__pf3980440580.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Cube.Cube_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Cube.Cube_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Cube__pf199495785.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Cube__pf199495785.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Stick.Stick_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/Stick.Stick_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Stick__pf199495785.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Stick__pf199495785.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/String.String_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/InventoryLogic/Selectable/String.String_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/String__pf199495785.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/String__pf199495785.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/InventoryLogic/UI/InventoryWindow.InventoryWindow_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/InventoryLogic/UI/InventoryWindow.InventoryWindow_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/InventoryWindow__pf3980440580.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/InventoryWindow__pf3980440580.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/InventoryLogic/UI/Slot.Slot_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/InventoryLogic/UI/Slot.Slot_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Slot__pf3980440580.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Slot__pf3980440580.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/Default/MainMenu.MainMenu_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/Default/MainMenu.MainMenu_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MainMenu__pf3669546605.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/MainMenu__pf3669546605.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Igloo.Igloo_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/InventoryLogic/Builds/Igloo.Igloo_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Igloo__pf1097354743.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Igloo__pf1097354743.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRodCraft.FishingRodCraft_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/InventoryLogic/Builds/FishingRodCraft.FishingRodCraft_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/FishingRodCraft__pf1097354743.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/FishingRodCraft__pf1097354743.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/DayCycleLogic/Custom_SkySphere.Custom_SkySphere_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/DayCycleLogic/Custom_SkySphere.Custom_SkySphere_C",
+			"generatedHeaderPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Custom_SkySphere__pf493351382.h",
+			"generatedCppPath": "E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Custom_SkySphere__pf493351382.cpp"
+		}
+	},
+	"unconvertedDependencies":
+	{
+	},
+	"nativizationOptions":
+	{
+		"platformName": "WindowsNoEditor",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"bExcludeMonolithicHeaders": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}

@@ -1,0 +1,59 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NativizedAssets.1_of_3.cpp.obj": [
+			"Build__pf1097354743.cpp.obj",
+			"Cube__pf199495785.cpp.obj",
+			"Custom_SkySphere__pf493351382.cpp.obj",
+			"DialogueStruct__pf3696423911.cpp.obj",
+			"DialogueTrigger__pf3696423911.cpp.obj",
+			"FishingPlace__pf1097354743.cpp.obj",
+			"FishingRodCraft__pf1097354743.cpp.obj",
+			"GameHUD__pf3980440580.cpp.obj",
+			"Igloo__pf1097354743.cpp.obj"
+		],
+		"Module.NativizedAssets.2_of_3.cpp.obj": [
+			"InventoryComponent__pf2577010357.cpp.obj",
+			"InventoryWindow__pf3980440580.cpp.obj",
+			"Item__pf199495785.cpp.obj",
+			"ItemStruct__pf697489738.cpp.obj",
+			"MainMenu__pf3669546605.cpp.obj",
+			"NativizedAssets.cpp.obj",
+			"NativizedAssets_Dependencies.cpp.obj",
+			"Slot__pf3980440580.cpp.obj",
+			"SlotStruct__pf697489738.cpp.obj",
+			"Stick__pf199495785.cpp.obj",
+			"String__pf199495785.cpp.obj"
+		],
+		"Module.NativizedAssets.3_of_3.cpp.obj": [
+			"TopDownCharacter__pf3669546605.cpp.obj",
+			"TopDownController__pf3669546605.cpp.obj"
+		],
+		"Module.NativizedAssets.gen.1_of_2.cpp.obj": [
+			"Build__pf1097354743.gen.cpp.obj",
+			"Cube__pf199495785.gen.cpp.obj",
+			"Custom_SkySphere__pf493351382.gen.cpp.obj",
+			"DialogueStruct__pf3696423911.gen.cpp.obj",
+			"DialogueTrigger__pf3696423911.gen.cpp.obj",
+			"FishingPlace__pf1097354743.gen.cpp.obj",
+			"FishingRodCraft__pf1097354743.gen.cpp.obj",
+			"GameHUD__pf3980440580.gen.cpp.obj",
+			"I_Interact__pf2577010357.gen.cpp.obj",
+			"Igloo__pf1097354743.gen.cpp.obj",
+			"InventoryComponent__pf2577010357.gen.cpp.obj",
+			"InventoryWindow__pf3980440580.gen.cpp.obj"
+		],
+		"Module.NativizedAssets.gen.2_of_2.cpp.obj": [
+			"Item__pf199495785.gen.cpp.obj",
+			"ItemStruct__pf697489738.gen.cpp.obj",
+			"MainMenu__pf3669546605.gen.cpp.obj",
+			"NativizedAssets.init.gen.cpp.obj",
+			"Slot__pf3980440580.gen.cpp.obj",
+			"SlotStruct__pf697489738.gen.cpp.obj",
+			"Stick__pf199495785.gen.cpp.obj",
+			"String__pf199495785.gen.cpp.obj",
+			"TopDownCharacter__pf3669546605.gen.cpp.obj",
+			"TopDownController__pf3669546605.gen.cpp.obj"
+		]
+	}
+}

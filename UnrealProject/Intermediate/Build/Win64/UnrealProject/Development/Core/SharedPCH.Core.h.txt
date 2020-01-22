@@ -1,0 +1,378 @@
+E:/Paau/Github/ProyectoUnreal/UnrealProject/Intermediate/Build/Win64/UnrealProject/Development/Core/SharedPCH.Core.h
+E:\Paau\Programes\Unreal\UE_4.22\Engine\Source\Runtime\Core\Public\CoreSharedPCH.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\CoreTypes.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/Build.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/Platform.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformCompilerPreSetup.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformCompilerPreSetup.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatform.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformCodeAnalysis.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Windows/WIndowsPlatform.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\sal.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\concurrencysal.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformCompilerSetup.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\ProfilingDebugging/UMemoryDefines.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/CoreMiscDefines.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/CoreDefines.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/Exec.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/AssertionMacros.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/PlatformMisc.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformMisc.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\CoreFwd.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/ContainersFwd.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\UObject/UObjectHierarchyFwd.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/PlatformCrt.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\new
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\exception
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\yvals.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\yvals_core.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xkeycheck.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\crtdefs.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\vadefs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\crtdbg.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_new_debug.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_new.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\use_ansi.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\type_traits
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xstddef
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\cstddef
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\stddef.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xtr1common
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdlib
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\limits.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_math.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\initializer_list
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\errno.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_stdio_config.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wtime.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\sys/types.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\stdio.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\stdarg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\float.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_memory.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/CompressionFlags.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformMisc.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/PlatformMemory.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformMemory.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformMemory.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Windows/WindowsSystemIncludes.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Windows/MinimalWindowsApi.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\intrin.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\intrin0.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\setjmp.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\immintrin.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\wmmintrin.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\nmmintrin.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\smmintrin.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\tmmintrin.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\pmmintrin.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\emmintrin.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xmmintrin.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\mmintrin.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\malloc.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\zmmintrin.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\ammintrin.h
+E:\Paau\Programes\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\stdint.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\tchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\intsafe.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\winapifamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\winpackagefamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\specstrings.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\specstrings_strict.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\specstrings_undef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\driverspecs.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\sdv_driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\strsafe.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/AndOrNot.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/EnableIf.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsArrayOrRefOfType.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsValidVariadicFunctionArg.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\templates\IsEnum.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/VarArgs.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/Array.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/UnrealMemory.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsPointer.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/MemoryBase.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/OutputDevice.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Logging/LogVerbosity.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/PlatformAtomics.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformAtomics.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformAtomics.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/Atomic.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/ThreadSafeCounter.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/ThreadSafeCounter64.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsIntegral.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsTrivial.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsTriviallyDestructible.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsTriviallyCopyConstructible.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsPODType.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsArithmetic.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsTriviallyCopyAssignable.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Traits/IntType.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/AreTypesEqual.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/UnrealTypeTraits.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/RemoveCV.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/UnrealTemplate.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/RemoveReference.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/TypeCompatibleBytes.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Traits/IsContiguousContainer.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/ContainerAllocationPolicies.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/PlatformMath.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformMath.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformMath.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/UnrealPlatformMathSSE.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/MemoryOps.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/NumericLimits.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Serialization/Archive.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsEnumClass.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/Function.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/ChooseClass.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/Decay.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/Invoke.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/PointerIsConvertibleFromTo.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsConstructible.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsInvocable.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsMemberPointer.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/UnrealMathUtility.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/PlatformProperties.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformProperties.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformProperties.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/EngineVersionBase.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Internationalization/TextNamespaceFwd.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Algo/Heapify.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Algo/Impl/BinaryHeap.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/ReversePredicate.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IdentityFunctor.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/Less.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Algo/HeapSort.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Algo/IsHeap.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/Sorting.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Algo/BinarySearch.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Algo/Sort.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Algo/IntroSort.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IntegralConstant.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsClass.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/Compression.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\CoreMinimal.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/Char.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\ctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\wctype.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformStricmp.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformString.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/PlatformString.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformString.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\GenericPlatform/MicrosoftPlatformString.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/CString.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/Crc.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/UnrealString.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/StringFormatArg.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/FrameNumber.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/Timespan.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Interval.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/CriticalSection.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Windows/WindowsCriticalSection.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/StringConv.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\UObject/UnrealNames.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\uobject\UnrealNames.inl
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\UObject/NameTypes.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Serialization/StructuredArchive.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Serialization/StructuredArchiveFormatter.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\serialization\Formatters/BinaryArchiveFormatter.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/Optional.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/Parse.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Color.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/AlignmentTemplates.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/StructBuilder.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/TypeHash.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/Tuple.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Delegates/IntegerSequence.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/ScriptArray.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/BitArray.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/SparseArray.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/Set.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Algo/Reverse.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/Map.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/HasGetTypeHash.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/ColorList.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/IntPoint.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/IntVector.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Logging/LogCategory.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Logging/LogMacros.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Vector2D.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/IntRect.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/ByteSwap.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/PlatformTLS.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformTLS.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformTLS.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\CoreGlobals.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointer.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointerInternals.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/SharedPointerTesting.inl
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Internationalization/CulturePointer.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\UObject/WeakObjectPtrTemplates.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Delegates/DelegateSettings.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Delegates/IDelegateInstance.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Delegates/DelegateBase.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Delegates/MulticastDelegateBase.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/TypeWrapper.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\UObject/ScriptDelegates.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Delegates/Delegate.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Delegates/DelegateInstanceInterface.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Delegates/DelegateInstancesImpl.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Delegates/DelegateSignatureImpl.inl
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Delegates/DelegateCombinations.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Internationalization/TextLocalizationManager.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/ArrayView.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Internationalization/TextKey.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Internationalization/LocTesting.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Internationalization/LocKeyFuncs.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Internationalization/LocalizedTextSourceTypes.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/EnumClassFlags.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsArray.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/RemoveExtent.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/UniquePtr.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Internationalization/Text.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Internationalization/StringTableCoreFwd.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Internationalization/ITextData.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/UniqueObj.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Internationalization/Internationalization.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Vector.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Axis.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Vector4.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/VectorRegister.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/UnrealMathSSE.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/UnrealMathVectorConstants.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/UnrealMathVectorCommon.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/TwoVectors.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Edge.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\UObject/ObjectVersion.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\UObject/PendingVersions.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Plane.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Sphere.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/CapsuleShape.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Rotator.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/DateTime.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/RangeBound.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/AutomationEvent.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/Guid.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Serialization/StructuredArchiveFromArchive.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Range.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/RangeSet.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Box.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Box2D.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/BoxSphereBounds.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/OrientedBox.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Matrix.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Matrix.inl
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/RotationTranslationMatrix.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/RotationAboutPointMatrix.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/ScaleRotationTranslationMatrix.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/RotationMatrix.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Quat.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/PerspectiveMatrix.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/OrthoMatrix.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/TranslationMatrix.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/QuatRotationTranslationMatrix.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/InverseRotationMatrix.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/ScaleMatrix.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/MirrorMatrix.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/ClipProjectionMatrix.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/InterpCurvePoint.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/InterpCurve.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/CurveEdInterface.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Float32.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Float16.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Float16Color.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Vector2DHalf.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/Transform.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/ScalarRegister.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/TransformVectorized.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/TransformNonVectorized.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/ConvexHull2d.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Math/UnrealMath.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsFloatingPoint.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/IsSigned.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/Greater.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/ThreadSingleton.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/TlsAutoCleanup.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Modules/ModuleInterface.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/CoreMisc.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Modules/ModuleManager.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Modules/Boilerplate/ModuleBoilerplate.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/PlatformTime.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformTime.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformTime.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformProcess.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/PlatformProcess.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformProcess.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/IndirectArray.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Stats/Stats.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\stats\StatsCommon.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Stats/Stats2.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/LockFreeList.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/NoopCounter.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/ChunkedArray.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/ThreadManager.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/Paths.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformAffinity.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/Event.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformFile.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Async/AsyncWork.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/IQueuedWork.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/QueuedThreadPool.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Serialization/BufferReader.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/ScopeLock.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/FileManager.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/IConsoleManager.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Features/IModularFeature.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/SecureHash.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Serialization/MemoryArchive.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/CommandLine.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/RefCounting.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/MemStack.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/LockFreeFixedSizeAllocator.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/StaticArray.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Serialization/MemoryWriter.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Async/TaskGraphInterfaces.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/Ticker.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/ConfigCacheIni.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/FileHelper.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/List.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\HAL/Runnable.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Containers/Queue.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/SlowTask.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/App.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/Timecode.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/FrameRate.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/FrameTime.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/ExpressionParserTypes.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Templates/ValueOrError.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/ExpressionParserTypes.inl
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/CoreDelegates.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/AES.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/CoreStats.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceRedirector.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/FeedbackContext.h
+e:\paau\programes\unreal\ue_4.22\engine\source\runtime\core\public\Misc/SlowTaskStack.h
